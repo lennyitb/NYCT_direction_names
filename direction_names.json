@@ -1,0 +1,6772 @@
+{
+  "1": {
+    "101": {
+      "stop_name": "Van Cortlandt Park-242 St",
+      "direction_names": {
+        "north": "Van Cortlandt Park-242 St",
+        "south": "Manhattan"
+      }
+    },
+    "103": {
+      "stop_name": "238 St",
+      "direction_names": {
+        "north": "Uptown to Van Cortlandt Park-242 St",
+        "south": "Manhattan"
+      }
+    },
+    "104": {
+      "stop_name": "231 St",
+      "direction_names": {
+        "north": "Uptown to Van Cortlandt Park-242 St",
+        "south": "Manhattan"
+      }
+    },
+    "106": {
+      "stop_name": "Marble Hill-225 St",
+      "direction_names": {
+        "north": "Uptown & The Bronx",
+        "south": "Downtown to South Ferry"
+      }
+    },
+    "107": {
+      "stop_name": "215 St",
+      "direction_names": {
+        "north": "Uptown & The Bronx",
+        "south": "Downtown to South Ferry"
+      }
+    },
+    "108": {
+      "stop_name": "207 St",
+      "direction_names": {
+        "north": "Uptown & The Bronx",
+        "south": "Downtown to South Ferry"
+      }
+    },
+    "109": {
+      "stop_name": "Dyckman St",
+      "direction_names": {
+        "north": "Uptown & The Bronx",
+        "south": "Downtown to South Ferry"
+      }
+    },
+    "110": {
+      "stop_name": "191 St",
+      "direction_names": {
+        "north": "Uptown & The Bronx",
+        "south": "Downtown to South Ferry"
+      }
+    },
+    "111": {
+      "stop_name": "181 St",
+      "direction_names": {
+        "north": "Uptown & The Bronx",
+        "south": "Downtown to South Ferry"
+      }
+    },
+    "112": {
+      "stop_name": "168 St-Washington Hts",
+      "direction_names": {
+        "north": "Uptown & The Bronx",
+        "south": "Downtown to South Ferry"
+      }
+    },
+    "113": {
+      "stop_name": "157 St",
+      "direction_names": {
+        "north": "Uptown & The Bronx",
+        "south": "Downtown to South Ferry"
+      }
+    },
+    "114": {
+      "stop_name": "145 St",
+      "direction_names": {
+        "north": "Uptown & The Bronx",
+        "south": "Downtown to South Ferry"
+      }
+    },
+    "115": {
+      "stop_name": "137 St-City College",
+      "direction_names": {
+        "north": "Uptown & The Bronx",
+        "south": "Downtown to South Ferry"
+      }
+    },
+    "116": {
+      "stop_name": "125 St",
+      "direction_names": {
+        "north": "Uptown & The Bronx",
+        "south": "Downtown to South Ferry"
+      }
+    },
+    "117": {
+      "stop_name": "116 St-Columbia University",
+      "direction_names": {
+        "north": "Uptown & The Bronx",
+        "south": "Downtown to South Ferry"
+      }
+    },
+    "118": {
+      "stop_name": "Cathedral Pkwy (110 St)",
+      "direction_names": {
+        "north": "Uptown & The Bronx",
+        "south": "Downtown to South Ferry"
+      }
+    },
+    "119": {
+      "stop_name": "103 St",
+      "direction_names": {
+        "north": "Uptown & The Bronx",
+        "south": "Downtown to South Ferry"
+      }
+    },
+    "120": {
+      "stop_name": "96 St",
+      "direction_names": {
+        "north": "Uptown & The Bronx",
+        "south": "Downtown to South Ferry"
+      }
+    },
+    "121": {
+      "stop_name": "86 St",
+      "direction_names": {
+        "north": "Uptown & The Bronx",
+        "south": "Downtown to South Ferry"
+      }
+    },
+    "122": {
+      "stop_name": "79 St",
+      "direction_names": {
+        "north": "Uptown & The Bronx",
+        "south": "Downtown to South Ferry"
+      }
+    },
+    "123": {
+      "stop_name": "72 St",
+      "direction_names": {
+        "north": "Uptown & The Bronx",
+        "south": "Downtown to South Ferry"
+      }
+    },
+    "124": {
+      "stop_name": "66 St-Lincoln Center",
+      "direction_names": {
+        "north": "Uptown & The Bronx",
+        "south": "Downtown to South Ferry"
+      }
+    },
+    "125": {
+      "stop_name": "59 St-Columbus Circle",
+      "direction_names": {
+        "north": "Uptown & The Bronx",
+        "south": "Downtown to South Ferry"
+      }
+    },
+    "126": {
+      "stop_name": "50 St",
+      "direction_names": {
+        "north": "Uptown & The Bronx",
+        "south": "Downtown to South Ferry"
+      }
+    },
+    "127": {
+      "stop_name": "Times Sq-42 St",
+      "direction_names": {
+        "north": "Uptown & The Bronx",
+        "south": "Downtown to South Ferry"
+      }
+    },
+    "128": {
+      "stop_name": "34 St-Penn Station",
+      "direction_names": {
+        "north": "Uptown & The Bronx",
+        "south": "Downtown to South Ferry"
+      }
+    },
+    "129": {
+      "stop_name": "28 St",
+      "direction_names": {
+        "north": "Uptown & The Bronx",
+        "south": "Downtown to South Ferry"
+      }
+    },
+    "130": {
+      "stop_name": "23 St",
+      "direction_names": {
+        "north": "Uptown & The Bronx",
+        "south": "Downtown to South Ferry"
+      }
+    },
+    "131": {
+      "stop_name": "18 St",
+      "direction_names": {
+        "north": "Uptown & The Bronx",
+        "south": "Downtown to South Ferry"
+      }
+    },
+    "132": {
+      "stop_name": "14 St",
+      "direction_names": {
+        "north": "Uptown & The Bronx",
+        "south": "Downtown to South Ferry"
+      }
+    },
+    "133": {
+      "stop_name": "Christopher St-Stonewall",
+      "direction_names": {
+        "north": "Uptown & The Bronx",
+        "south": "Downtown to South Ferry"
+      }
+    },
+    "134": {
+      "stop_name": "Houston St",
+      "direction_names": {
+        "north": "Uptown & The Bronx",
+        "south": "Downtown to South Ferry"
+      }
+    },
+    "135": {
+      "stop_name": "Canal St",
+      "direction_names": {
+        "north": "Uptown & The Bronx",
+        "south": "Downtown to South Ferry"
+      }
+    },
+    "136": {
+      "stop_name": "Franklin St",
+      "direction_names": {
+        "north": "Uptown & The Bronx",
+        "south": "Downtown to South Ferry"
+      }
+    },
+    "137": {
+      "stop_name": "Chambers St",
+      "direction_names": {
+        "north": "Uptown & The Bronx",
+        "south": "Downtown to South Ferry"
+      }
+    },
+    "138": {
+      "stop_name": "WTC Cortlandt",
+      "direction_names": {
+        "north": "Uptown & The Bronx",
+        "south": "Downtown to South Ferry"
+      }
+    },
+    "139": {
+      "stop_name": "Rector St",
+      "direction_names": {
+        "north": "Uptown & The Bronx",
+        "south": "Downtown to South Ferry"
+      }
+    },
+    "142": {
+      "stop_name": "South Ferry",
+      "direction_names": {
+        "north": "Uptown & The Bronx",
+        "south": "Downtown to South Ferry"
+      }
+    }
+  },
+  "2": {
+    "201": {
+      "stop_name": "Wakefield-241 St",
+      "direction_names": {
+        "north": "Wakefield-241 St",
+        "south": "Manhattan & Brooklyn"
+      }
+    },
+    "204": {
+      "stop_name": "Nereid Av",
+      "direction_names": {
+        "north": "Uptown to Wakefield-241 St",
+        "south": "Manhattan & Brooklyn"
+      }
+    },
+    "205": {
+      "stop_name": "233 St",
+      "direction_names": {
+        "north": "Uptown to Wakefield-241 St",
+        "south": "Manhattan & Brooklyn"
+      }
+    },
+    "206": {
+      "stop_name": "225 St",
+      "direction_names": {
+        "north": "Uptown to Wakefield-241 St",
+        "south": "Manhattan & Brooklyn"
+      }
+    },
+    "207": {
+      "stop_name": "219 St",
+      "direction_names": {
+        "north": "Uptown to Wakefield-241 St",
+        "south": "Manhattan & Brooklyn"
+      }
+    },
+    "208": {
+      "stop_name": "Gun Hill Rd",
+      "direction_names": {
+        "north": "Uptown to Wakefield-241 St",
+        "south": "Manhattan & Brooklyn"
+      }
+    },
+    "209": {
+      "stop_name": "Burke Av",
+      "direction_names": {
+        "north": "Uptown to Wakefield-241 St",
+        "south": "Manhattan & Brooklyn"
+      }
+    },
+    "210": {
+      "stop_name": "Allerton Av",
+      "direction_names": {
+        "north": "Uptown to Wakefield-241 St",
+        "south": "Manhattan & Brooklyn"
+      }
+    },
+    "211": {
+      "stop_name": "Pelham Pkwy",
+      "direction_names": {
+        "north": "Uptown to Wakefield-241 St",
+        "south": "Manhattan & Brooklyn"
+      }
+    },
+    "212": {
+      "stop_name": "Bronx Park East",
+      "direction_names": {
+        "north": "Uptown to Wakefield-241 St",
+        "south": "Manhattan & Brooklyn"
+      }
+    },
+    "213": {
+      "stop_name": "E 180 St",
+      "direction_names": {
+        "north": "Uptown to Wakefield-241 St",
+        "south": "Manhattan & Brooklyn"
+      }
+    },
+    "214": {
+      "stop_name": "West Farms Sq-E Tremont Av",
+      "direction_names": {
+        "north": "Uptown to Wakefield-241 St",
+        "south": "Manhattan & Brooklyn"
+      }
+    },
+    "215": {
+      "stop_name": "174 St",
+      "direction_names": {
+        "north": "Uptown to Wakefield-241 St",
+        "south": "Manhattan & Brooklyn"
+      }
+    },
+    "216": {
+      "stop_name": "Freeman St",
+      "direction_names": {
+        "north": "Uptown to Wakefield-241 St",
+        "south": "Manhattan & Brooklyn"
+      }
+    },
+    "217": {
+      "stop_name": "Simpson St",
+      "direction_names": {
+        "north": "Uptown to Wakefield-241 St",
+        "south": "Manhattan & Brooklyn"
+      }
+    },
+    "218": {
+      "stop_name": "Intervale Av",
+      "direction_names": {
+        "north": "Uptown to Wakefield-241 St",
+        "south": "Manhattan & Brooklyn"
+      }
+    },
+    "219": {
+      "stop_name": "Prospect Av",
+      "direction_names": {
+        "north": "Uptown to Wakefield-241 St",
+        "south": "Manhattan & Brooklyn"
+      }
+    },
+    "220": {
+      "stop_name": "Jackson Av",
+      "direction_names": {
+        "north": "Uptown to Wakefield-241 St",
+        "south": "Manhattan & Brooklyn"
+      }
+    },
+    "221": {
+      "stop_name": "3 Av-149 St",
+      "direction_names": {
+        "north": "Uptown to Wakefield-241 St",
+        "south": "Manhattan & Brooklyn"
+      }
+    },
+    "222": {
+      "stop_name": "149 St-Grand Concourse",
+      "direction_names": {
+        "north": "Uptown to Wakefield-241 St",
+        "south": "Manhattan & Brooklyn"
+      }
+    },
+    "224": {
+      "stop_name": "135 St",
+      "direction_names": {
+        "north": "Uptown & The Bronx",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "225": {
+      "stop_name": "125 St",
+      "direction_names": {
+        "north": "Uptown & The Bronx",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "226": {
+      "stop_name": "116 St",
+      "direction_names": {
+        "north": "Uptown & The Bronx",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "227": {
+      "stop_name": "110 St-Malcolm X Plaza",
+      "direction_names": {
+        "north": "Uptown & The Bronx",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "120": {
+      "stop_name": "96 St",
+      "direction_names": {
+        "north": "Uptown & The Bronx",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "121": {
+      "stop_name": "86 St",
+      "direction_names": {
+        "north": "Uptown & The Bronx",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "122": {
+      "stop_name": "79 St",
+      "direction_names": {
+        "north": "Uptown & The Bronx",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "123": {
+      "stop_name": "72 St",
+      "direction_names": {
+        "north": "Uptown & The Bronx",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "124": {
+      "stop_name": "66 St-Lincoln Center",
+      "direction_names": {
+        "north": "Uptown & The Bronx",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "125": {
+      "stop_name": "59 St-Columbus Circle",
+      "direction_names": {
+        "north": "Uptown & The Bronx",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "126": {
+      "stop_name": "50 St",
+      "direction_names": {
+        "north": "Uptown & The Bronx",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "127": {
+      "stop_name": "Times Sq-42 St",
+      "direction_names": {
+        "north": "Uptown & The Bronx",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "128": {
+      "stop_name": "34 St-Penn Station",
+      "direction_names": {
+        "north": "Uptown & The Bronx",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "129": {
+      "stop_name": "28 St",
+      "direction_names": {
+        "north": "Uptown & The Bronx",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "130": {
+      "stop_name": "23 St",
+      "direction_names": {
+        "north": "Uptown & The Bronx",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "131": {
+      "stop_name": "18 St",
+      "direction_names": {
+        "north": "Uptown & The Bronx",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "132": {
+      "stop_name": "14 St",
+      "direction_names": {
+        "north": "Uptown & The Bronx",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "133": {
+      "stop_name": "Christopher St-Stonewall",
+      "direction_names": {
+        "north": "Uptown & The Bronx",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "134": {
+      "stop_name": "Houston St",
+      "direction_names": {
+        "north": "Uptown & The Bronx",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "135": {
+      "stop_name": "Canal St",
+      "direction_names": {
+        "north": "Uptown & The Bronx",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "136": {
+      "stop_name": "Franklin St",
+      "direction_names": {
+        "north": "Uptown & The Bronx",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "137": {
+      "stop_name": "Chambers St",
+      "direction_names": {
+        "north": "Uptown & The Bronx",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "228": {
+      "stop_name": "Park Place",
+      "direction_names": {
+        "north": "Uptown & The Bronx",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "229": {
+      "stop_name": "Fulton St",
+      "direction_names": {
+        "north": "Uptown & The Bronx",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "230": {
+      "stop_name": "Wall St",
+      "direction_names": {
+        "north": "Uptown & The Bronx",
+        "south": "Brooklyn"
+      }
+    },
+    "231": {
+      "stop_name": "Clark St",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Flatbush Av"
+      }
+    },
+    "232": {
+      "stop_name": "Borough Hall",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Flatbush Av"
+      }
+    },
+    "233": {
+      "stop_name": "Hoyt St",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Flatbush Av"
+      }
+    },
+    "234": {
+      "stop_name": "Nevins St",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Flatbush Av"
+      }
+    },
+    "235": {
+      "stop_name": "Atlantic Av-Barclays Ctr",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Flatbush Av"
+      }
+    },
+    "236": {
+      "stop_name": "Bergen St",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Flatbush Av"
+      }
+    },
+    "237": {
+      "stop_name": "Grand Army Plaza",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Flatbush Av"
+      }
+    },
+    "238": {
+      "stop_name": "Eastern Pkwy-Brooklyn Museum",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Flatbush Av"
+      }
+    },
+    "239": {
+      "stop_name": "Franklin Av-Medgar Evers College",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Flatbush Av"
+      }
+    },
+    "241": {
+      "stop_name": "President St-Medgar Evers College",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Flatbush Av"
+      }
+    },
+    "242": {
+      "stop_name": "Sterling St",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Flatbush Av"
+      }
+    },
+    "243": {
+      "stop_name": "Winthrop St",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Flatbush Av"
+      }
+    },
+    "244": {
+      "stop_name": "Church Av",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Flatbush Av"
+      }
+    },
+    "245": {
+      "stop_name": "Beverly Rd",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Flatbush Av"
+      }
+    },
+    "246": {
+      "stop_name": "Newkirk Av-Little Haiti",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Flatbush Av"
+      }
+    },
+    "247": {
+      "stop_name": "Flatbush Av-Brooklyn College",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Flatbush Av"
+      }
+    }
+  },
+  "3": {
+    "301": {
+      "stop_name": "Harlem-148 St",
+      "direction_names": {
+        "north": "Uptown to Harlem-148 St",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "302": {
+      "stop_name": "145 St",
+      "direction_names": {
+        "north": "Uptown to Harlem-148 St",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "224": {
+      "stop_name": "135 St",
+      "direction_names": {
+        "north": "Uptown to Harlem-148 St",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "225": {
+      "stop_name": "125 St",
+      "direction_names": {
+        "north": "Uptown to Harlem-148 St",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "226": {
+      "stop_name": "116 St",
+      "direction_names": {
+        "north": "Uptown to Harlem-148 St",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "227": {
+      "stop_name": "110 St-Malcolm X Plaza",
+      "direction_names": {
+        "north": "Uptown to Harlem-148 St",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "120": {
+      "stop_name": "96 St",
+      "direction_names": {
+        "north": "Uptown to Harlem-148 St",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "123": {
+      "stop_name": "72 St",
+      "direction_names": {
+        "north": "Uptown to Harlem-148 St",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "127": {
+      "stop_name": "Times Sq-42 St",
+      "direction_names": {
+        "north": "Uptown to Harlem-148 St",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "128": {
+      "stop_name": "34 St-Penn Station",
+      "direction_names": {
+        "north": "Uptown to Harlem-148 St",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "132": {
+      "stop_name": "14 St",
+      "direction_names": {
+        "north": "Uptown to Harlem-148 St",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "137": {
+      "stop_name": "Chambers St",
+      "direction_names": {
+        "north": "Uptown to Harlem-148 St",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "228": {
+      "stop_name": "Park Place",
+      "direction_names": {
+        "north": "Uptown to Harlem-148 St",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "229": {
+      "stop_name": "Fulton St",
+      "direction_names": {
+        "north": "Uptown to Harlem-148 St",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "230": {
+      "stop_name": "Wall St",
+      "direction_names": {
+        "north": "Uptown to Harlem-148 St",
+        "south": "Brooklyn"
+      }
+    },
+    "231": {
+      "stop_name": "Clark St",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "New Lots Av"
+      }
+    },
+    "232": {
+      "stop_name": "Borough Hall",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "New Lots Av"
+      }
+    },
+    "233": {
+      "stop_name": "Hoyt St",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "New Lots Av"
+      }
+    },
+    "234": {
+      "stop_name": "Nevins St",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "New Lots Av"
+      }
+    },
+    "235": {
+      "stop_name": "Atlantic Av-Barclays Ctr",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "New Lots Av"
+      }
+    },
+    "236": {
+      "stop_name": "Bergen St",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "New Lots Av"
+      }
+    },
+    "237": {
+      "stop_name": "Grand Army Plaza",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "New Lots Av"
+      }
+    },
+    "238": {
+      "stop_name": "Eastern Pkwy-Brooklyn Museum",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "New Lots Av"
+      }
+    },
+    "239": {
+      "stop_name": "Franklin Av-Medgar Evers College",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "New Lots Av"
+      }
+    },
+    "248": {
+      "stop_name": "Nostrand Av",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "New Lots Av"
+      }
+    },
+    "249": {
+      "stop_name": "Kingston Av",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "New Lots Av"
+      }
+    },
+    "250": {
+      "stop_name": "Crown Hts-Utica Av",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "New Lots Av"
+      }
+    },
+    "251": {
+      "stop_name": "Sutter Av-Rutland Rd",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "New Lots Av"
+      }
+    },
+    "252": {
+      "stop_name": "Saratoga Av",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "New Lots Av"
+      }
+    },
+    "253": {
+      "stop_name": "Rockaway Av",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "New Lots Av"
+      }
+    },
+    "254": {
+      "stop_name": "Junius St",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "New Lots Av"
+      }
+    },
+    "255": {
+      "stop_name": "Pennsylvania Av",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "New Lots Av"
+      }
+    },
+    "256": {
+      "stop_name": "Van Siclen Av",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "New Lots Av"
+      }
+    },
+    "257": {
+      "stop_name": "New Lots Av",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "New Lots Av"
+      }
+    }
+  },
+  "4": {
+    "401": {
+      "stop_name": "Woodlawn",
+      "direction_names": {
+        "north": "Woodlawn",
+        "south": "Manhattan & Brooklyn"
+      }
+    },
+    "402": {
+      "stop_name": "Mosholu Pkwy",
+      "direction_names": {
+        "north": "Uptown to Woodlawn",
+        "south": "Manhattan & Brooklyn"
+      }
+    },
+    "405": {
+      "stop_name": "Bedford Park Blvd-Lehman College",
+      "direction_names": {
+        "north": "Uptown to Woodlawn",
+        "south": "Manhattan & Brooklyn"
+      }
+    },
+    "406": {
+      "stop_name": "Kingsbridge Rd",
+      "direction_names": {
+        "north": "Uptown to Woodlawn",
+        "south": "Manhattan & Brooklyn"
+      }
+    },
+    "407": {
+      "stop_name": "Fordham Rd",
+      "direction_names": {
+        "north": "Uptown to Woodlawn",
+        "south": "Manhattan & Brooklyn"
+      }
+    },
+    "408": {
+      "stop_name": "183 St",
+      "direction_names": {
+        "north": "Uptown to Woodlawn",
+        "south": "Manhattan & Brooklyn"
+      }
+    },
+    "409": {
+      "stop_name": "Burnside Av",
+      "direction_names": {
+        "north": "Uptown to Woodlawn",
+        "south": "Manhattan & Brooklyn"
+      }
+    },
+    "410": {
+      "stop_name": "176 St",
+      "direction_names": {
+        "north": "Uptown to Woodlawn",
+        "south": "Manhattan & Brooklyn"
+      }
+    },
+    "411": {
+      "stop_name": "Mt Eden Av",
+      "direction_names": {
+        "north": "Uptown to Woodlawn",
+        "south": "Manhattan & Brooklyn"
+      }
+    },
+    "412": {
+      "stop_name": "170 St",
+      "direction_names": {
+        "north": "Uptown to Woodlawn",
+        "south": "Manhattan & Brooklyn"
+      }
+    },
+    "413": {
+      "stop_name": "167 St",
+      "direction_names": {
+        "north": "Uptown to Woodlawn",
+        "south": "Manhattan & Brooklyn"
+      }
+    },
+    "414": {
+      "stop_name": "161 St-Yankee Stadium",
+      "direction_names": {
+        "north": "Uptown to Woodlawn",
+        "south": "Manhattan & Brooklyn"
+      }
+    },
+    "415": {
+      "stop_name": "149 St-Grand Concourse",
+      "direction_names": {
+        "north": "Uptown to Woodlawn",
+        "south": "Manhattan & Brooklyn"
+      }
+    },
+    "416": {
+      "stop_name": "138 St-Grand Concourse",
+      "direction_names": {
+        "north": "Uptown to Woodlawn",
+        "south": "Manhattan & Brooklyn"
+      }
+    },
+    "621": {
+      "stop_name": "125 St",
+      "direction_names": {
+        "north": "Uptown & The Bronx",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "622": {
+      "stop_name": "116 St",
+      "direction_names": {
+        "north": "Uptown & The Bronx",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "623": {
+      "stop_name": "110 St",
+      "direction_names": {
+        "north": "Uptown & The Bronx",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "624": {
+      "stop_name": "103 St",
+      "direction_names": {
+        "north": "Uptown & The Bronx",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "625": {
+      "stop_name": "96 St",
+      "direction_names": {
+        "north": "Uptown & The Bronx",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "626": {
+      "stop_name": "86 St",
+      "direction_names": {
+        "north": "Uptown & The Bronx",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "627": {
+      "stop_name": "77 St",
+      "direction_names": {
+        "north": "Uptown & The Bronx",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "628": {
+      "stop_name": "68 St-Hunter College",
+      "direction_names": {
+        "north": "Uptown & The Bronx",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "629": {
+      "stop_name": "59 St",
+      "direction_names": {
+        "north": "Uptown & The Bronx",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "630": {
+      "stop_name": "51 St",
+      "direction_names": {
+        "north": "Uptown & The Bronx",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "631": {
+      "stop_name": "Grand Central-42 St",
+      "direction_names": {
+        "north": "Uptown & The Bronx",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "632": {
+      "stop_name": "33 St",
+      "direction_names": {
+        "north": "Uptown & The Bronx",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "633": {
+      "stop_name": "28 St",
+      "direction_names": {
+        "north": "Uptown & The Bronx",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "634": {
+      "stop_name": "23 St-Baruch College",
+      "direction_names": {
+        "north": "Uptown & The Bronx",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "635": {
+      "stop_name": "14 St-Union Sq",
+      "direction_names": {
+        "north": "Uptown & The Bronx",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "636": {
+      "stop_name": "Astor Pl",
+      "direction_names": {
+        "north": "Uptown & The Bronx",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "637": {
+      "stop_name": "Bleecker St",
+      "direction_names": {
+        "north": "Uptown & The Bronx",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "638": {
+      "stop_name": "Spring St",
+      "direction_names": {
+        "north": "Uptown & The Bronx",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "639": {
+      "stop_name": "Canal St",
+      "direction_names": {
+        "north": "Uptown & The Bronx",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "640": {
+      "stop_name": "Brooklyn Bridge-City Hall",
+      "direction_names": {
+        "north": "Uptown & The Bronx",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "418": {
+      "stop_name": "Fulton St",
+      "direction_names": {
+        "north": "Uptown & The Bronx",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "419": {
+      "stop_name": "Wall St",
+      "direction_names": {
+        "north": "Uptown & The Bronx",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "420": {
+      "stop_name": "Bowling Green",
+      "direction_names": {
+        "north": "Uptown & The Bronx",
+        "south": "Brooklyn"
+      }
+    },
+    "423": {
+      "stop_name": "Borough Hall",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "New Lots Av"
+      }
+    },
+    "234": {
+      "stop_name": "Nevins St",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "New Lots Av"
+      }
+    },
+    "235": {
+      "stop_name": "Atlantic Av-Barclays Ctr",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "New Lots Av"
+      }
+    },
+    "236": {
+      "stop_name": "Bergen St",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "New Lots Av"
+      }
+    },
+    "237": {
+      "stop_name": "Grand Army Plaza",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "New Lots Av"
+      }
+    },
+    "238": {
+      "stop_name": "Eastern Pkwy-Brooklyn Museum",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "New Lots Av"
+      }
+    },
+    "239": {
+      "stop_name": "Franklin Av-Medgar Evers College",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "New Lots Av"
+      }
+    },
+    "248": {
+      "stop_name": "Nostrand Av",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "New Lots Av"
+      }
+    },
+    "249": {
+      "stop_name": "Kingston Av",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "New Lots Av"
+      }
+    },
+    "250": {
+      "stop_name": "Crown Hts-Utica Av",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "New Lots Av"
+      }
+    },
+    "251": {
+      "stop_name": "Sutter Av-Rutland Rd",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "New Lots Av"
+      }
+    },
+    "252": {
+      "stop_name": "Saratoga Av",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "New Lots Av"
+      }
+    },
+    "253": {
+      "stop_name": "Rockaway Av",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "New Lots Av"
+      }
+    },
+    "254": {
+      "stop_name": "Junius St",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "New Lots Av"
+      }
+    },
+    "255": {
+      "stop_name": "Pennsylvania Av",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "New Lots Av"
+      }
+    },
+    "256": {
+      "stop_name": "Van Siclen Av",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "New Lots Av"
+      }
+    },
+    "257": {
+      "stop_name": "New Lots Av",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "New Lots Av"
+      }
+    }
+  },
+  "5": {
+    "501": {
+      "stop_name": "Eastchester-Dyre Av",
+      "direction_names": {
+        "north": "Dyre Av",
+        "south": "Manhattan & Brooklyn"
+      }
+    },
+    "502": {
+      "stop_name": "Baychester Av",
+      "direction_names": {
+        "north": "Uptown to Dyre Av",
+        "south": "Manhattan & Brooklyn"
+      }
+    },
+    "503": {
+      "stop_name": "Gun Hill Rd",
+      "direction_names": {
+        "north": "Uptown to Dyre Av",
+        "south": "Manhattan & Brooklyn"
+      }
+    },
+    "504": {
+      "stop_name": "Pelham Pkwy",
+      "direction_names": {
+        "north": "Uptown to Dyre Av",
+        "south": "Manhattan & Brooklyn"
+      }
+    },
+    "505": {
+      "stop_name": "Morris Park",
+      "direction_names": {
+        "north": "Uptown to Dyre Av",
+        "south": "Manhattan & Brooklyn"
+      }
+    },
+    "213": {
+      "stop_name": "E 180 St",
+      "direction_names": {
+        "north": "Uptown to Dyre Av",
+        "south": "Manhattan & Brooklyn"
+      }
+    },
+    "214": {
+      "stop_name": "West Farms Sq-E Tremont Av",
+      "direction_names": {
+        "north": "Uptown to Dyre Av",
+        "south": "Manhattan & Brooklyn"
+      }
+    },
+    "215": {
+      "stop_name": "174 St",
+      "direction_names": {
+        "north": "Uptown to Dyre Av",
+        "south": "Manhattan & Brooklyn"
+      }
+    },
+    "216": {
+      "stop_name": "Freeman St",
+      "direction_names": {
+        "north": "Uptown to Dyre Av",
+        "south": "Manhattan & Brooklyn"
+      }
+    },
+    "217": {
+      "stop_name": "Simpson St",
+      "direction_names": {
+        "north": "Uptown to Dyre Av",
+        "south": "Manhattan & Brooklyn"
+      }
+    },
+    "218": {
+      "stop_name": "Intervale Av",
+      "direction_names": {
+        "north": "Uptown to Dyre Av",
+        "south": "Manhattan & Brooklyn"
+      }
+    },
+    "219": {
+      "stop_name": "Prospect Av",
+      "direction_names": {
+        "north": "Uptown to Dyre Av",
+        "south": "Manhattan & Brooklyn"
+      }
+    },
+    "220": {
+      "stop_name": "Jackson Av",
+      "direction_names": {
+        "north": "Uptown to Dyre Av",
+        "south": "Manhattan & Brooklyn"
+      }
+    },
+    "221": {
+      "stop_name": "3 Av-149 St",
+      "direction_names": {
+        "north": "Uptown to Dyre Av",
+        "south": "Manhattan & Brooklyn"
+      }
+    },
+    "222": {
+      "stop_name": "149 St-Grand Concourse",
+      "direction_names": {
+        "north": "Uptown to Dyre Av",
+        "south": "Manhattan & Brooklyn"
+      }
+    },
+    "416": {
+      "stop_name": "138 St-Grand Concourse",
+      "direction_names": {
+        "north": "Uptown to Dyre Av",
+        "south": "Manhattan & Brooklyn"
+      }
+    },
+    "621": {
+      "stop_name": "125 St",
+      "direction_names": {
+        "north": "Uptown & The Bronx",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "626": {
+      "stop_name": "86 St",
+      "direction_names": {
+        "north": "Uptown & The Bronx",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "629": {
+      "stop_name": "59 St",
+      "direction_names": {
+        "north": "Uptown & The Bronx",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "631": {
+      "stop_name": "Grand Central-42 St",
+      "direction_names": {
+        "north": "Uptown & The Bronx",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "635": {
+      "stop_name": "14 St-Union Sq",
+      "direction_names": {
+        "north": "Uptown & The Bronx",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "640": {
+      "stop_name": "Brooklyn Bridge-City Hall",
+      "direction_names": {
+        "north": "Uptown & The Bronx",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "418": {
+      "stop_name": "Fulton St",
+      "direction_names": {
+        "north": "Uptown & The Bronx",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "419": {
+      "stop_name": "Wall St",
+      "direction_names": {
+        "north": "Uptown & The Bronx",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "420": {
+      "stop_name": "Bowling Green",
+      "direction_names": {
+        "north": "Uptown & The Bronx",
+        "south": "Brooklyn"
+      }
+    },
+    "423": {
+      "stop_name": "Borough Hall",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Flatbush Av & Utica Av"
+      }
+    },
+    "234": {
+      "stop_name": "Nevins St",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Flatbush Av & Utica Av"
+      }
+    },
+    "235": {
+      "stop_name": "Atlantic Av-Barclays Ctr",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Flatbush Av & Utica Av"
+      }
+    },
+    "239": {
+      "stop_name": "Franklin Av-Medgar Evers College",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Flatbush Av & Utica Av"
+      }
+    },
+    "250": {
+      "stop_name": "Crown Hts-Utica Av",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Utica Av"
+      }
+    },
+    "241": {
+      "stop_name": "President St-Medgar Evers College",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Flatbush Av"
+      }
+    },
+    "242": {
+      "stop_name": "Sterling St",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Flatbush Av"
+      }
+    },
+    "243": {
+      "stop_name": "Winthrop St",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Flatbush Av"
+      }
+    },
+    "244": {
+      "stop_name": "Church Av",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Flatbush Av"
+      }
+    },
+    "245": {
+      "stop_name": "Beverly Rd",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Flatbush Av"
+      }
+    },
+    "246": {
+      "stop_name": "Newkirk Av-Little Haiti",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Flatbush Av"
+      }
+    },
+    "247": {
+      "stop_name": "Flatbush Av-Brooklyn College",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Flatbush Av"
+      }
+    },
+    "204": {
+      "stop_name": "Nereid Av",
+      "direction_names": {
+        "north": "Nereid Av",
+        "south": "Manhattan"
+      }
+    },
+    "205": {
+      "stop_name": "233 St",
+      "direction_names": {
+        "north": "Uptown to Nereid Av",
+        "south": "Manhattan"
+      }
+    },
+    "206": {
+      "stop_name": "225 St",
+      "direction_names": {
+        "north": "Uptown to Nereid Av",
+        "south": "Manhattan"
+      }
+    },
+    "207": {
+      "stop_name": "219 St",
+      "direction_names": {
+        "north": "Uptown to Nereid Av",
+        "south": "Manhattan"
+      }
+    },
+    "208": {
+      "stop_name": "Gun Hill Rd",
+      "direction_names": {
+        "north": "Uptown to Nereid Av",
+        "south": "Manhattan"
+      }
+    },
+    "209": {
+      "stop_name": "Burke Av",
+      "direction_names": {
+        "north": "Uptown to Nereid Av",
+        "south": "Manhattan"
+      }
+    },
+    "210": {
+      "stop_name": "Allerton Av",
+      "direction_names": {
+        "north": "Uptown to Nereid Av",
+        "south": "Manhattan"
+      }
+    },
+    "211": {
+      "stop_name": "Pelham Pkwy",
+      "direction_names": {
+        "north": "Uptown to Nereid Av",
+        "south": "Manhattan"
+      }
+    },
+    "212": {
+      "stop_name": "Bronx Park East",
+      "direction_names": {
+        "north": "Uptown to Nereid Av",
+        "south": "Manhattan"
+      }
+    }
+  },
+  "6": {
+    "601": {
+      "stop_name": "Pelham Bay Park",
+      "direction_names": {
+        "north": "Pelham Bay Park",
+        "south": "Manhattan"
+      }
+    },
+    "602": {
+      "stop_name": "Buhre Av",
+      "direction_names": {
+        "north": "Uptown to Pelham Bay Park",
+        "south": "Manhattan"
+      }
+    },
+    "603": {
+      "stop_name": "Middletown Rd",
+      "direction_names": {
+        "north": "Uptown to Pelham Bay Park",
+        "south": "Manhattan"
+      }
+    },
+    "604": {
+      "stop_name": "Westchester Sq-E Tremont Av",
+      "direction_names": {
+        "north": "Uptown to Pelham Bay Park",
+        "south": "Manhattan"
+      }
+    },
+    "606": {
+      "stop_name": "Zerega Av",
+      "direction_names": {
+        "north": "Uptown to Pelham Bay Park",
+        "south": "Manhattan"
+      }
+    },
+    "607": {
+      "stop_name": "Castle Hill Av",
+      "direction_names": {
+        "north": "Uptown to Pelham Bay Park",
+        "south": "Manhattan"
+      }
+    },
+    "608": {
+      "stop_name": "Parkchester",
+      "direction_names": {
+        "north": "Uptown to Pelham Bay Park",
+        "south": "Manhattan"
+      }
+    },
+    "609": {
+      "stop_name": "St Lawrence Av",
+      "direction_names": {
+        "north": "Uptown to Pelham Bay Park",
+        "south": "Manhattan"
+      }
+    },
+    "610": {
+      "stop_name": "Morrison Av-Soundview",
+      "direction_names": {
+        "north": "Uptown to Pelham Bay Park",
+        "south": "Manhattan"
+      }
+    },
+    "611": {
+      "stop_name": "Elder Av",
+      "direction_names": {
+        "north": "Uptown to Pelham Bay Park",
+        "south": "Manhattan"
+      }
+    },
+    "612": {
+      "stop_name": "Whitlock Av",
+      "direction_names": {
+        "north": "Uptown to Pelham Bay Park",
+        "south": "Manhattan"
+      }
+    },
+    "613": {
+      "stop_name": "Hunts Point Av",
+      "direction_names": {
+        "north": "Uptown to Pelham Bay Park",
+        "south": "Manhattan"
+      }
+    },
+    "614": {
+      "stop_name": "Longwood Av",
+      "direction_names": {
+        "north": "Uptown to Pelham Bay Park",
+        "south": "Manhattan"
+      }
+    },
+    "615": {
+      "stop_name": "E 149 St",
+      "direction_names": {
+        "north": "Uptown to Pelham Bay Park",
+        "south": "Manhattan"
+      }
+    },
+    "616": {
+      "stop_name": "E 143 St-St Mary's St",
+      "direction_names": {
+        "north": "Uptown to Pelham Bay Park",
+        "south": "Manhattan"
+      }
+    },
+    "617": {
+      "stop_name": "Cypress Av",
+      "direction_names": {
+        "north": "Uptown to Pelham Bay Park",
+        "south": "Manhattan"
+      }
+    },
+    "618": {
+      "stop_name": "Brook Av",
+      "direction_names": {
+        "north": "Uptown to Pelham Bay Park",
+        "south": "Manhattan"
+      }
+    },
+    "619": {
+      "stop_name": "3 Av-138 St",
+      "direction_names": {
+        "north": "Uptown to Pelham Bay Park",
+        "south": "Manhattan"
+      }
+    },
+    "621": {
+      "stop_name": "125 St",
+      "direction_names": {
+        "north": "Uptown & The Bronx",
+        "south": "Downtown to Brooklyn Bridge-City Hall"
+      }
+    },
+    "622": {
+      "stop_name": "116 St",
+      "direction_names": {
+        "north": "Uptown & The Bronx",
+        "south": "Downtown to Brooklyn Bridge-City Hall"
+      }
+    },
+    "623": {
+      "stop_name": "110 St",
+      "direction_names": {
+        "north": "Uptown & The Bronx",
+        "south": "Downtown to Brooklyn Bridge-City Hall"
+      }
+    },
+    "624": {
+      "stop_name": "103 St",
+      "direction_names": {
+        "north": "Uptown & The Bronx",
+        "south": "Downtown to Brooklyn Bridge-City Hall"
+      }
+    },
+    "625": {
+      "stop_name": "96 St",
+      "direction_names": {
+        "north": "Uptown & The Bronx",
+        "south": "Downtown to Brooklyn Bridge-City Hall"
+      }
+    },
+    "626": {
+      "stop_name": "86 St",
+      "direction_names": {
+        "north": "Uptown & The Bronx",
+        "south": "Downtown to Brooklyn Bridge-City Hall"
+      }
+    },
+    "627": {
+      "stop_name": "77 St",
+      "direction_names": {
+        "north": "Uptown & The Bronx",
+        "south": "Downtown to Brooklyn Bridge-City Hall"
+      }
+    },
+    "628": {
+      "stop_name": "68 St-Hunter College",
+      "direction_names": {
+        "north": "Uptown & The Bronx",
+        "south": "Downtown to Brooklyn Bridge-City Hall"
+      }
+    },
+    "629": {
+      "stop_name": "59 St",
+      "direction_names": {
+        "north": "Uptown & The Bronx",
+        "south": "Downtown to Brooklyn Bridge-City Hall"
+      }
+    },
+    "630": {
+      "stop_name": "51 St",
+      "direction_names": {
+        "north": "Uptown & The Bronx",
+        "south": "Downtown to Brooklyn Bridge-City Hall"
+      }
+    },
+    "631": {
+      "stop_name": "Grand Central-42 St",
+      "direction_names": {
+        "north": "Uptown & The Bronx",
+        "south": "Downtown to Brooklyn Bridge-City Hall"
+      }
+    },
+    "632": {
+      "stop_name": "33 St",
+      "direction_names": {
+        "north": "Uptown & The Bronx",
+        "south": "Downtown to Brooklyn Bridge-City Hall"
+      }
+    },
+    "633": {
+      "stop_name": "28 St",
+      "direction_names": {
+        "north": "Uptown & The Bronx",
+        "south": "Downtown to Brooklyn Bridge-City Hall"
+      }
+    },
+    "634": {
+      "stop_name": "23 St-Baruch College",
+      "direction_names": {
+        "north": "Uptown & The Bronx",
+        "south": "Downtown to Brooklyn Bridge-City Hall"
+      }
+    },
+    "635": {
+      "stop_name": "14 St-Union Sq",
+      "direction_names": {
+        "north": "Uptown & The Bronx",
+        "south": "Downtown to Brooklyn Bridge-City Hall"
+      }
+    },
+    "636": {
+      "stop_name": "Astor Pl",
+      "direction_names": {
+        "north": "Uptown & The Bronx",
+        "south": "Downtown to Brooklyn Bridge-City Hall"
+      }
+    },
+    "637": {
+      "stop_name": "Bleecker St",
+      "direction_names": {
+        "north": "Uptown & The Bronx",
+        "south": "Downtown to Brooklyn Bridge-City Hall"
+      }
+    },
+    "638": {
+      "stop_name": "Spring St",
+      "direction_names": {
+        "north": "Uptown & The Bronx",
+        "south": "Downtown to Brooklyn Bridge-City Hall"
+      }
+    },
+    "639": {
+      "stop_name": "Canal St",
+      "direction_names": {
+        "north": "Uptown & The Bronx",
+        "south": "Downtown to Brooklyn Bridge-City Hall"
+      }
+    },
+    "640": {
+      "stop_name": "Brooklyn Bridge-City Hall",
+      "direction_names": {
+        "north": "Uptown & The Bronx",
+        "south": "Downtown to Brooklyn Bridge-City Hall"
+      }
+    }
+  },
+  "6X": {
+    "601": {
+      "stop_name": "Pelham Bay Park",
+      "direction_names": {
+        "north": "Pelham Bay Park",
+        "south": "Manhattan"
+      }
+    },
+    "602": {
+      "stop_name": "Buhre Av",
+      "direction_names": {
+        "north": "Uptown to Pelham Bay Park",
+        "south": "Manhattan"
+      }
+    },
+    "603": {
+      "stop_name": "Middletown Rd",
+      "direction_names": {
+        "north": "Uptown to Pelham Bay Park",
+        "south": "Manhattan"
+      }
+    },
+    "604": {
+      "stop_name": "Westchester Sq-E Tremont Av",
+      "direction_names": {
+        "north": "Uptown to Pelham Bay Park",
+        "south": "Manhattan"
+      }
+    },
+    "606": {
+      "stop_name": "Zerega Av",
+      "direction_names": {
+        "north": "Uptown to Pelham Bay Park",
+        "south": "Manhattan"
+      }
+    },
+    "607": {
+      "stop_name": "Castle Hill Av",
+      "direction_names": {
+        "north": "Uptown to Pelham Bay Park",
+        "south": "Manhattan"
+      }
+    },
+    "608": {
+      "stop_name": "Parkchester",
+      "direction_names": {
+        "north": "Uptown to Pelham Bay Park",
+        "south": "Manhattan"
+      }
+    },
+    "613": {
+      "stop_name": "Hunts Point Av",
+      "direction_names": {
+        "north": "Uptown to Pelham Bay Park",
+        "south": "Manhattan"
+      }
+    },
+    "619": {
+      "stop_name": "3 Av-138 St",
+      "direction_names": {
+        "north": "Uptown to Pelham Bay Park",
+        "south": "Manhattan"
+      }
+    },
+    "621": {
+      "stop_name": "125 St",
+      "direction_names": {
+        "north": "Uptown & The Bronx",
+        "south": "Downtown to Brooklyn Bridge-City Hall"
+      }
+    },
+    "622": {
+      "stop_name": "116 St",
+      "direction_names": {
+        "north": "Uptown & The Bronx",
+        "south": "Downtown to Brooklyn Bridge-City Hall"
+      }
+    },
+    "623": {
+      "stop_name": "110 St",
+      "direction_names": {
+        "north": "Uptown & The Bronx",
+        "south": "Downtown to Brooklyn Bridge-City Hall"
+      }
+    },
+    "624": {
+      "stop_name": "103 St",
+      "direction_names": {
+        "north": "Uptown & The Bronx",
+        "south": "Downtown to Brooklyn Bridge-City Hall"
+      }
+    },
+    "625": {
+      "stop_name": "96 St",
+      "direction_names": {
+        "north": "Uptown & The Bronx",
+        "south": "Downtown to Brooklyn Bridge-City Hall"
+      }
+    },
+    "626": {
+      "stop_name": "86 St",
+      "direction_names": {
+        "north": "Uptown & The Bronx",
+        "south": "Downtown to Brooklyn Bridge-City Hall"
+      }
+    },
+    "627": {
+      "stop_name": "77 St",
+      "direction_names": {
+        "north": "Uptown & The Bronx",
+        "south": "Downtown to Brooklyn Bridge-City Hall"
+      }
+    },
+    "628": {
+      "stop_name": "68 St-Hunter College",
+      "direction_names": {
+        "north": "Uptown & The Bronx",
+        "south": "Downtown to Brooklyn Bridge-City Hall"
+      }
+    },
+    "629": {
+      "stop_name": "59 St",
+      "direction_names": {
+        "north": "Uptown & The Bronx",
+        "south": "Downtown to Brooklyn Bridge-City Hall"
+      }
+    },
+    "630": {
+      "stop_name": "51 St",
+      "direction_names": {
+        "north": "Uptown & The Bronx",
+        "south": "Downtown to Brooklyn Bridge-City Hall"
+      }
+    },
+    "631": {
+      "stop_name": "Grand Central-42 St",
+      "direction_names": {
+        "north": "Uptown & The Bronx",
+        "south": "Downtown to Brooklyn Bridge-City Hall"
+      }
+    },
+    "632": {
+      "stop_name": "33 St",
+      "direction_names": {
+        "north": "Uptown & The Bronx",
+        "south": "Downtown to Brooklyn Bridge-City Hall"
+      }
+    },
+    "633": {
+      "stop_name": "28 St",
+      "direction_names": {
+        "north": "Uptown & The Bronx",
+        "south": "Downtown to Brooklyn Bridge-City Hall"
+      }
+    },
+    "634": {
+      "stop_name": "23 St-Baruch College",
+      "direction_names": {
+        "north": "Uptown & The Bronx",
+        "south": "Downtown to Brooklyn Bridge-City Hall"
+      }
+    },
+    "635": {
+      "stop_name": "14 St-Union Sq",
+      "direction_names": {
+        "north": "Uptown & The Bronx",
+        "south": "Downtown to Brooklyn Bridge-City Hall"
+      }
+    },
+    "636": {
+      "stop_name": "Astor Pl",
+      "direction_names": {
+        "north": "Uptown & The Bronx",
+        "south": "Downtown to Brooklyn Bridge-City Hall"
+      }
+    },
+    "637": {
+      "stop_name": "Bleecker St",
+      "direction_names": {
+        "north": "Uptown & The Bronx",
+        "south": "Downtown to Brooklyn Bridge-City Hall"
+      }
+    },
+    "638": {
+      "stop_name": "Spring St",
+      "direction_names": {
+        "north": "Uptown & The Bronx",
+        "south": "Downtown to Brooklyn Bridge-City Hall"
+      }
+    },
+    "639": {
+      "stop_name": "Canal St",
+      "direction_names": {
+        "north": "Uptown & The Bronx",
+        "south": "Downtown to Brooklyn Bridge-City Hall"
+      }
+    },
+    "640": {
+      "stop_name": "Brooklyn Bridge-City Hall",
+      "direction_names": {
+        "north": "Uptown & The Bronx",
+        "south": "Downtown to Brooklyn Bridge-City Hall"
+      }
+    }
+  },
+  "7": {
+    "701": {
+      "stop_name": "Flushing-Main St",
+      "direction_names": {
+        "north": "Manhattan & Times Sq",
+        "south": "Main Street-Flushing"
+      }
+    },
+    "702": {
+      "stop_name": "Mets-Willets Point",
+      "direction_names": {
+        "north": "Manhattan & Times Sq",
+        "south": "Main Street-Flushing"
+      }
+    },
+    "705": {
+      "stop_name": "111 St",
+      "direction_names": {
+        "north": "Manhattan & Times Sq",
+        "south": "Main Street-Flushing"
+      }
+    },
+    "706": {
+      "stop_name": "103 St-Corona Plaza",
+      "direction_names": {
+        "north": "Manhattan & Times Sq",
+        "south": "Main Street-Flushing"
+      }
+    },
+    "707": {
+      "stop_name": "Junction Blvd",
+      "direction_names": {
+        "north": "Manhattan & Times Sq",
+        "south": "Main Street-Flushing"
+      }
+    },
+    "708": {
+      "stop_name": "90 St-Elmhurst Av",
+      "direction_names": {
+        "north": "Manhattan & Times Sq",
+        "south": "Main Street-Flushing"
+      }
+    },
+    "709": {
+      "stop_name": "82 St-Jackson Hts",
+      "direction_names": {
+        "north": "Manhattan & Times Sq",
+        "south": "Main Street-Flushing"
+      }
+    },
+    "710": {
+      "stop_name": "74 St-Broadway",
+      "direction_names": {
+        "north": "Manhattan & Times Sq",
+        "south": "Main Street-Flushing"
+      }
+    },
+    "711": {
+      "stop_name": "69 St",
+      "direction_names": {
+        "north": "Manhattan & Times Sq",
+        "south": "Main Street-Flushing"
+      }
+    },
+    "712": {
+      "stop_name": "61 St-Woodside",
+      "direction_names": {
+        "north": "Manhattan & Times Sq",
+        "south": "Main Street-Flushing"
+      }
+    },
+    "713": {
+      "stop_name": "52 St",
+      "direction_names": {
+        "north": "Manhattan & Times Sq",
+        "south": "Main Street-Flushing"
+      }
+    },
+    "714": {
+      "stop_name": "46 St-Bliss St",
+      "direction_names": {
+        "north": "Manhattan & Times Sq",
+        "south": "Main Street-Flushing"
+      }
+    },
+    "715": {
+      "stop_name": "40 St-Lowery St",
+      "direction_names": {
+        "north": "Manhattan & Times Sq",
+        "south": "Main Street-Flushing"
+      }
+    },
+    "716": {
+      "stop_name": "33 St-Rawson St",
+      "direction_names": {
+        "north": "Manhattan & Times Sq",
+        "south": "Main Street-Flushing"
+      }
+    },
+    "718": {
+      "stop_name": "Queensboro Plaza",
+      "direction_names": {
+        "north": "Manhattan & Times Sq",
+        "south": "Main Street-Flushing"
+      }
+    },
+    "719": {
+      "stop_name": "Court Sq",
+      "direction_names": {
+        "north": "Manhattan & Times Sq",
+        "south": "Main Street-Flushing"
+      }
+    },
+    "720": {
+      "stop_name": "Hunters Point Av",
+      "direction_names": {
+        "north": "Manhattan & Times Sq",
+        "south": "Main Street-Flushing"
+      }
+    },
+    "721": {
+      "stop_name": "Vernon Blvd-Jackson Av",
+      "direction_names": {
+        "north": "Manhattan & Times Sq",
+        "south": "Main Street-Flushing"
+      }
+    },
+    "723": {
+      "stop_name": "Grand Central-42 St",
+      "direction_names": {
+        "north": "Hudson Yards",
+        "south": "Main St, Queens"
+      }
+    },
+    "724": {
+      "stop_name": "5 Av",
+      "direction_names": {
+        "north": "Grand Central",
+        "south": "Grand Central, Main St, Queens"
+      }
+    },
+    "725": {
+      "stop_name": "Times Sq-42 St",
+      "direction_names": {
+        "north": "5 Av, Grand Central",
+        "south": "5 Av, Grand Central, Main St, Queens"
+      }
+    },
+    "726": {
+      "stop_name": "34 St-Hudson Yards",
+      "direction_names": {
+        "north": "Times Sq, 5 Av, Grand Central",
+        "south": "Times Sq, 5 Av, Grand Central, Main St, Queens"
+      }
+    }
+  },
+  "7X": {
+    "701": {
+      "stop_name": "Flushing-Main St",
+      "direction_names": {
+        "north": "Manhattan & Times Sq",
+        "south": "Main Street-Flushing"
+      }
+    },
+    "702": {
+      "stop_name": "Mets-Willets Point",
+      "direction_names": {
+        "north": "Manhattan & Times Sq",
+        "south": "Main Street-Flushing"
+      }
+    },
+    "707": {
+      "stop_name": "Junction Blvd",
+      "direction_names": {
+        "north": "Manhattan & Times Sq",
+        "south": "Main Street-Flushing"
+      }
+    },
+    "710": {
+      "stop_name": "74 St-Broadway",
+      "direction_names": {
+        "north": "Manhattan & Times Sq",
+        "south": "Main Street-Flushing"
+      }
+    },
+    "711": {
+      "stop_name": "69 St",
+      "direction_names": {
+        "north": "Manhattan & Times Sq",
+        "south": "Main Street-Flushing"
+      }
+    },
+    "712": {
+      "stop_name": "61 St-Woodside",
+      "direction_names": {
+        "north": "Manhattan & Times Sq",
+        "south": "Main Street-Flushing"
+      }
+    },
+    "713": {
+      "stop_name": "52 St",
+      "direction_names": {
+        "north": "Manhattan & Times Sq",
+        "south": "Main Street-Flushing"
+      }
+    },
+    "714": {
+      "stop_name": "46 St-Bliss St",
+      "direction_names": {
+        "north": "Manhattan & Times Sq",
+        "south": "Main Street-Flushing"
+      }
+    },
+    "715": {
+      "stop_name": "40 St-Lowery St",
+      "direction_names": {
+        "north": "Manhattan & Times Sq",
+        "south": "Main Street-Flushing"
+      }
+    },
+    "716": {
+      "stop_name": "33 St-Rawson St",
+      "direction_names": {
+        "north": "Manhattan & Times Sq",
+        "south": "Main Street-Flushing"
+      }
+    },
+    "718": {
+      "stop_name": "Queensboro Plaza",
+      "direction_names": {
+        "north": "Manhattan & Times Sq",
+        "south": "Main Street-Flushing"
+      }
+    },
+    "719": {
+      "stop_name": "Court Sq",
+      "direction_names": {
+        "north": "Manhattan & Times Sq",
+        "south": "Main Street-Flushing"
+      }
+    },
+    "720": {
+      "stop_name": "Hunters Point Av",
+      "direction_names": {
+        "north": "Manhattan & Times Sq",
+        "south": "Main Street-Flushing"
+      }
+    },
+    "721": {
+      "stop_name": "Vernon Blvd-Jackson Av",
+      "direction_names": {
+        "north": "Manhattan & Times Sq",
+        "south": "Main Street-Flushing"
+      }
+    },
+    "723": {
+      "stop_name": "Grand Central-42 St",
+      "direction_names": {
+        "north": "Hudson Yards",
+        "south": "Main St, Queens"
+      }
+    },
+    "724": {
+      "stop_name": "5 Av",
+      "direction_names": {
+        "north": "Grand Central",
+        "south": "Grand Central, Main St, Queens"
+      }
+    },
+    "725": {
+      "stop_name": "Times Sq-42 St",
+      "direction_names": {
+        "north": "5 Av, Grand Central",
+        "south": "5 Av, Grand Central, Main St, Queens"
+      }
+    },
+    "726": {
+      "stop_name": "34 St-Hudson Yards",
+      "direction_names": {
+        "north": "Times Sq, 5 Av, Grand Central",
+        "south": "Times Sq, 5 Av, Grand Central, Main St, Queens"
+      }
+    }
+  },
+  "A": {
+    "A02": {
+      "stop_name": "Inwood-207 St",
+      "direction_names": {
+        "north": "Uptown to Inwood-207 St",
+        "south": "Downtown Brooklyn & Queens"
+      }
+    },
+    "A03": {
+      "stop_name": "Dyckman St",
+      "direction_names": {
+        "north": "Uptown to Inwood-207 St",
+        "south": "Downtown Brooklyn & Queens"
+      }
+    },
+    "A05": {
+      "stop_name": "190 St",
+      "direction_names": {
+        "north": "Uptown to Inwood-207 St",
+        "south": "Downtown Brooklyn & Queens"
+      }
+    },
+    "A06": {
+      "stop_name": "181 St",
+      "direction_names": {
+        "north": "Uptown to Inwood-207 St",
+        "south": "Downtown Brooklyn & Queens"
+      }
+    },
+    "A07": {
+      "stop_name": "175 St",
+      "direction_names": {
+        "north": "Uptown to Inwood-207 St",
+        "south": "Downtown Brooklyn & Queens"
+      }
+    },
+    "A09": {
+      "stop_name": "168 St",
+      "direction_names": {
+        "north": "Uptown to Inwood-207 St",
+        "south": "Downtown Brooklyn & Queens"
+      }
+    },
+    "A10": {
+      "stop_name": "163 St-Amsterdam Av",
+      "direction_names": {
+        "north": "Uptown to Inwood-207 St",
+        "south": "Downtown Brooklyn & Queens"
+      }
+    },
+    "A11": {
+      "stop_name": "155 St",
+      "direction_names": {
+        "north": "Uptown to Inwood-207 St",
+        "south": "Downtown Brooklyn & Queens"
+      }
+    },
+    "A12": {
+      "stop_name": "145 St",
+      "direction_names": {
+        "north": "Uptown to Inwood-207 St",
+        "south": "Downtown Brooklyn & Queens"
+      }
+    },
+    "A14": {
+      "stop_name": "135 St",
+      "direction_names": {
+        "north": "Uptown to Inwood-207 St",
+        "south": "Downtown Brooklyn & Queens"
+      }
+    },
+    "A15": {
+      "stop_name": "125 St",
+      "direction_names": {
+        "north": "Uptown to Inwood-207 St",
+        "south": "Downtown Brooklyn & Queens"
+      }
+    },
+    "A16": {
+      "stop_name": "116 St",
+      "direction_names": {
+        "north": "Uptown to Inwood-207 St",
+        "south": "Downtown Brooklyn & Queens"
+      }
+    },
+    "A17": {
+      "stop_name": "Cathedral Pkwy (110 St)",
+      "direction_names": {
+        "north": "Uptown to Inwood-207 St",
+        "south": "Downtown Brooklyn & Queens"
+      }
+    },
+    "A18": {
+      "stop_name": "103 St",
+      "direction_names": {
+        "north": "Uptown to Inwood-207 St",
+        "south": "Downtown Brooklyn & Queens"
+      }
+    },
+    "A19": {
+      "stop_name": "96 St",
+      "direction_names": {
+        "north": "Uptown to Inwood-207 St",
+        "south": "Downtown Brooklyn & Queens"
+      }
+    },
+    "A20": {
+      "stop_name": "86 St",
+      "direction_names": {
+        "north": "Uptown to Inwood-207 St",
+        "south": "Downtown Brooklyn & Queens"
+      }
+    },
+    "A21": {
+      "stop_name": "81 St-Museum of Natural History",
+      "direction_names": {
+        "north": "Uptown to Inwood-207 St",
+        "south": "Downtown Brooklyn & Queens"
+      }
+    },
+    "A22": {
+      "stop_name": "72 St",
+      "direction_names": {
+        "north": "Uptown to Inwood-207 St",
+        "south": "Downtown Brooklyn & Queens"
+      }
+    },
+    "A24": {
+      "stop_name": "59 St-Columbus Circle",
+      "direction_names": {
+        "north": "Uptown to Inwood-207 St",
+        "south": "Downtown Brooklyn & Queens"
+      }
+    },
+    "A25": {
+      "stop_name": "50 St",
+      "direction_names": {
+        "north": "Uptown to Inwood-207 St",
+        "south": "Downtown Brooklyn & Queens"
+      }
+    },
+    "A27": {
+      "stop_name": "42 St-Port Authority Bus Terminal",
+      "direction_names": {
+        "north": "Uptown to Inwood-207 St",
+        "south": "Downtown Brooklyn & Queens"
+      }
+    },
+    "A28": {
+      "stop_name": "34 St-Penn Station",
+      "direction_names": {
+        "north": "Uptown to Inwood-207 St",
+        "south": "Downtown Brooklyn & Queens"
+      }
+    },
+    "A30": {
+      "stop_name": "23 St",
+      "direction_names": {
+        "north": "Uptown to Inwood-207 St",
+        "south": "Downtown Brooklyn & Queens"
+      }
+    },
+    "A31": {
+      "stop_name": "14 St",
+      "direction_names": {
+        "north": "Uptown to Inwood-207 St",
+        "south": "Downtown Brooklyn & Queens"
+      }
+    },
+    "A32": {
+      "stop_name": "W 4 St-Wash Sq",
+      "direction_names": {
+        "north": "Uptown to Inwood-207 St",
+        "south": "Downtown Brooklyn & Queens"
+      }
+    },
+    "A33": {
+      "stop_name": "Spring St",
+      "direction_names": {
+        "north": "Uptown to Inwood-207 St",
+        "south": "Downtown Brooklyn & Queens"
+      }
+    },
+    "A34": {
+      "stop_name": "Canal St",
+      "direction_names": {
+        "north": "Uptown to Inwood-207 St",
+        "south": "Downtown Brooklyn & Queens"
+      }
+    },
+    "A36": {
+      "stop_name": "Chambers St",
+      "direction_names": {
+        "north": "Uptown to Inwood-207 St",
+        "south": "Downtown Brooklyn & Queens"
+      }
+    },
+    "A38": {
+      "stop_name": "Fulton St",
+      "direction_names": {
+        "north": "Uptown to Inwood-207 St",
+        "south": "Brooklyn & Queens"
+      }
+    },
+    "A40": {
+      "stop_name": "High St",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Lefferts Blvd & The Rockaways"
+      }
+    },
+    "A41": {
+      "stop_name": "Jay St-MetroTech",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Lefferts Blvd & The Rockaways"
+      }
+    },
+    "A42": {
+      "stop_name": "Hoyt-Schermerhorn Sts",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Lefferts Blvd & The Rockaways"
+      }
+    },
+    "A43": {
+      "stop_name": "Lafayette Av",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Lefferts Blvd & The Rockaways"
+      }
+    },
+    "A44": {
+      "stop_name": "Clinton-Washington Avs",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Lefferts Blvd & The Rockaways"
+      }
+    },
+    "A45": {
+      "stop_name": "Franklin Av",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Lefferts Blvd & The Rockaways"
+      }
+    },
+    "A46": {
+      "stop_name": "Nostrand Av",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Lefferts Blvd & The Rockaways"
+      }
+    },
+    "A47": {
+      "stop_name": "Kingston-Throop Avs",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Lefferts Blvd & The Rockaways"
+      }
+    },
+    "A48": {
+      "stop_name": "Utica Av",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Lefferts Blvd & The Rockaways"
+      }
+    },
+    "A49": {
+      "stop_name": "Ralph Av",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Lefferts Blvd & The Rockaways"
+      }
+    },
+    "A50": {
+      "stop_name": "Rockaway Av",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Lefferts Blvd & The Rockaways"
+      }
+    },
+    "A51": {
+      "stop_name": "Broadway Junction",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Lefferts Blvd & The Rockaways"
+      }
+    },
+    "A52": {
+      "stop_name": "Liberty Av",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Lefferts Blvd & The Rockaways"
+      }
+    },
+    "A53": {
+      "stop_name": "Van Siclen Av",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Lefferts Blvd & The Rockaways"
+      }
+    },
+    "A54": {
+      "stop_name": "Shepherd Av",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Lefferts Blvd & The Rockaways"
+      }
+    },
+    "A55": {
+      "stop_name": "Euclid Av",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Lefferts Blvd & The Rockaways"
+      }
+    },
+    "A57": {
+      "stop_name": "Grant Av",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Lefferts Blvd & The Rockaways"
+      }
+    },
+    "A59": {
+      "stop_name": "80 St",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Lefferts Blvd & The Rockaways"
+      }
+    },
+    "A60": {
+      "stop_name": "88 St",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Lefferts Blvd & The Rockaways"
+      }
+    },
+    "A61": {
+      "stop_name": "Rockaway Blvd",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Lefferts Blvd & The Rockaways"
+      }
+    },
+    "H02": {
+      "stop_name": "Aqueduct-N Conduit Av",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Lefferts Blvd & The Rockaways"
+      }
+    },
+    "H03": {
+      "stop_name": "Howard Beach-JFK Airport",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Lefferts Blvd & The Rockaways"
+      }
+    },
+    "H04": {
+      "stop_name": "Broad Channel",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Lefferts Blvd & The Rockaways"
+      }
+    },
+    "A63": {
+      "stop_name": "104 St",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Lefferts Blvd"
+      }
+    },
+    "A64": {
+      "stop_name": "111 St",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Lefferts Blvd"
+      }
+    },
+    "A65": {
+      "stop_name": "Ozone Park-Lefferts Blvd",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Lefferts Blvd"
+      }
+    },
+    "H12": {
+      "stop_name": "Beach 90 St",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Rockaway Park"
+      }
+    },
+    "H13": {
+      "stop_name": "Beach 98 St",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Rockaway Park"
+      }
+    },
+    "H14": {
+      "stop_name": "Beach 105 St",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Rockaway Park"
+      }
+    },
+    "H15": {
+      "stop_name": "Rockaway Park-Beach 116 St",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Rockaway Park"
+      }
+    },
+    "H06": {
+      "stop_name": "Beach 67 St",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Far Rockaway"
+      }
+    },
+    "H07": {
+      "stop_name": "Beach 60 St",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Far Rockaway"
+      }
+    },
+    "H08": {
+      "stop_name": "Beach 44 St",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Far Rockaway"
+      }
+    },
+    "H09": {
+      "stop_name": "Beach 36 St",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Far Rockaway"
+      }
+    },
+    "H10": {
+      "stop_name": "Beach 25 St",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Far Rockaway"
+      }
+    },
+    "H11": {
+      "stop_name": "Far Rockaway-Mott Av",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Far Rockaway"
+      }
+    }
+  },
+  "B": {
+    "D03": {
+      "stop_name": "Bedford Park Blvd",
+      "direction_names": {
+        "north": "Bedford Park Blvd",
+        "south": "Manhattan & Brooklyn"
+      }
+    },
+    "D04": {
+      "stop_name": "Kingsbridge Rd",
+      "direction_names": {
+        "north": "Uptown to Bedford Park Blvd",
+        "south": "Manhattan & Brooklyn"
+      }
+    },
+    "D05": {
+      "stop_name": "Fordham Rd",
+      "direction_names": {
+        "north": "Uptown to Bedford Park Blvd",
+        "south": "Manhattan & Brooklyn"
+      }
+    },
+    "D06": {
+      "stop_name": "182-183 Sts",
+      "direction_names": {
+        "north": "Uptown to Bedford Park Blvd",
+        "south": "Manhattan & Brooklyn"
+      }
+    },
+    "D07": {
+      "stop_name": "Tremont Av",
+      "direction_names": {
+        "north": "Uptown to Bedford Park Blvd",
+        "south": "Manhattan & Brooklyn"
+      }
+    },
+    "D08": {
+      "stop_name": "174-175 Sts",
+      "direction_names": {
+        "north": "Uptown to Bedford Park Blvd",
+        "south": "Manhattan & Brooklyn"
+      }
+    },
+    "D09": {
+      "stop_name": "170 St",
+      "direction_names": {
+        "north": "Uptown to Bedford Park Blvd",
+        "south": "Manhattan & Brooklyn"
+      }
+    },
+    "D10": {
+      "stop_name": "167 St",
+      "direction_names": {
+        "north": "Uptown to Bedford Park Blvd",
+        "south": "Manhattan & Brooklyn"
+      }
+    },
+    "D11": {
+      "stop_name": "161 St-Yankee Stadium",
+      "direction_names": {
+        "north": "Uptown to Bedford Park Blvd",
+        "south": "Manhattan & Brooklyn"
+      }
+    },
+    "D12": {
+      "stop_name": "155 St",
+      "direction_names": {
+        "north": "Uptown & The Bronx",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "D13": {
+      "stop_name": "145 St",
+      "direction_names": {
+        "north": "Uptown & The Bronx",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "A14": {
+      "stop_name": "135 St",
+      "direction_names": {
+        "north": "Uptown & The Bronx",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "A15": {
+      "stop_name": "125 St",
+      "direction_names": {
+        "north": "Uptown & The Bronx",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "A16": {
+      "stop_name": "116 St",
+      "direction_names": {
+        "north": "Uptown & The Bronx",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "A17": {
+      "stop_name": "Cathedral Pkwy (110 St)",
+      "direction_names": {
+        "north": "Uptown & The Bronx",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "A18": {
+      "stop_name": "103 St",
+      "direction_names": {
+        "north": "Uptown & The Bronx",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "A19": {
+      "stop_name": "96 St",
+      "direction_names": {
+        "north": "Uptown & The Bronx",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "A20": {
+      "stop_name": "86 St",
+      "direction_names": {
+        "north": "Uptown & The Bronx",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "A21": {
+      "stop_name": "81 St-Museum of Natural History",
+      "direction_names": {
+        "north": "Uptown & The Bronx",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "A22": {
+      "stop_name": "72 St",
+      "direction_names": {
+        "north": "Uptown & The Bronx",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "A24": {
+      "stop_name": "59 St-Columbus Circle",
+      "direction_names": {
+        "north": "Uptown & The Bronx",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "D14": {
+      "stop_name": "7 Av",
+      "direction_names": {
+        "north": "Uptown & The Bronx",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "D15": {
+      "stop_name": "47-50 Sts-Rockefeller Ctr",
+      "direction_names": {
+        "north": "Uptown & The Bronx",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "D16": {
+      "stop_name": "42 St-Bryant Pk",
+      "direction_names": {
+        "north": "Uptown & The Bronx",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "D17": {
+      "stop_name": "34 St-Herald Sq",
+      "direction_names": {
+        "north": "Uptown & The Bronx",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "D20": {
+      "stop_name": "W 4 St-Wash Sq",
+      "direction_names": {
+        "north": "Uptown & The Bronx",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "D21": {
+      "stop_name": "Broadway-Lafayette St",
+      "direction_names": {
+        "north": "Uptown & The Bronx",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "D22": {
+      "stop_name": "Grand St",
+      "direction_names": {
+        "north": "Uptown & The Bronx",
+        "south": "Brooklyn"
+      }
+    },
+    "R30": {
+      "stop_name": "DeKalb Av",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Brighton Beach"
+      }
+    },
+    "D24": {
+      "stop_name": "Atlantic Av-Barclays Ctr",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Brighton Beach"
+      }
+    },
+    "D25": {
+      "stop_name": "7 Av",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Brighton Beach"
+      }
+    },
+    "D26": {
+      "stop_name": "Prospect Park",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Brighton Beach"
+      }
+    },
+    "D28": {
+      "stop_name": "Church Av",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Brighton Beach"
+      }
+    },
+    "D31": {
+      "stop_name": "Newkirk Plaza",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Brighton Beach"
+      }
+    },
+    "D35": {
+      "stop_name": "Kings Hwy",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Brighton Beach"
+      }
+    },
+    "D39": {
+      "stop_name": "Sheepshead Bay",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Brighton Beach"
+      }
+    },
+    "D40": {
+      "stop_name": "Brighton Beach",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Brighton Beach"
+      }
+    }
+  },
+  "C": {
+    "A09": {
+      "stop_name": "168 St",
+      "direction_names": {
+        "north": "Uptown to 168 St",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "A10": {
+      "stop_name": "163 St-Amsterdam Av",
+      "direction_names": {
+        "north": "Uptown to 168 St",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "A11": {
+      "stop_name": "155 St",
+      "direction_names": {
+        "north": "Uptown to 168 St",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "A12": {
+      "stop_name": "145 St",
+      "direction_names": {
+        "north": "Uptown to 168 St",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "A14": {
+      "stop_name": "135 St",
+      "direction_names": {
+        "north": "Uptown to 168 St",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "A15": {
+      "stop_name": "125 St",
+      "direction_names": {
+        "north": "Uptown to 168 St",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "A16": {
+      "stop_name": "116 St",
+      "direction_names": {
+        "north": "Uptown to 168 St",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "A17": {
+      "stop_name": "Cathedral Pkwy (110 St)",
+      "direction_names": {
+        "north": "Uptown to 168 St",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "A18": {
+      "stop_name": "103 St",
+      "direction_names": {
+        "north": "Uptown to 168 St",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "A19": {
+      "stop_name": "96 St",
+      "direction_names": {
+        "north": "Uptown to 168 St",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "A20": {
+      "stop_name": "86 St",
+      "direction_names": {
+        "north": "Uptown to 168 St",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "A21": {
+      "stop_name": "81 St-Museum of Natural History",
+      "direction_names": {
+        "north": "Uptown to 168 St",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "A22": {
+      "stop_name": "72 St",
+      "direction_names": {
+        "north": "Uptown to 168 St",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "A24": {
+      "stop_name": "59 St-Columbus Circle",
+      "direction_names": {
+        "north": "Uptown to 168 St",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "A25": {
+      "stop_name": "50 St",
+      "direction_names": {
+        "north": "Uptown to 168 St",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "A27": {
+      "stop_name": "42 St-Port Authority Bus Terminal",
+      "direction_names": {
+        "north": "Uptown to 168 St",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "A28": {
+      "stop_name": "34 St-Penn Station",
+      "direction_names": {
+        "north": "Uptown to 168 St",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "A30": {
+      "stop_name": "23 St",
+      "direction_names": {
+        "north": "Uptown to 168 St",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "A31": {
+      "stop_name": "14 St",
+      "direction_names": {
+        "north": "Uptown to 168 St",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "A32": {
+      "stop_name": "W 4 St-Wash Sq",
+      "direction_names": {
+        "north": "Uptown to 168 St",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "A33": {
+      "stop_name": "Spring St",
+      "direction_names": {
+        "north": "Uptown to 168 St",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "A34": {
+      "stop_name": "Canal St",
+      "direction_names": {
+        "north": "Uptown to 168 St",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "A36": {
+      "stop_name": "Chambers St",
+      "direction_names": {
+        "north": "Uptown to 168 St",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "A38": {
+      "stop_name": "Fulton St",
+      "direction_names": {
+        "north": "Uptown to 168 St",
+        "south": "Brooklyn"
+      }
+    },
+    "A40": {
+      "stop_name": "High St",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Euclid Av"
+      }
+    },
+    "A41": {
+      "stop_name": "Jay St-MetroTech",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Euclid Av"
+      }
+    },
+    "A42": {
+      "stop_name": "Hoyt-Schermerhorn Sts",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Euclid Av"
+      }
+    },
+    "A43": {
+      "stop_name": "Lafayette Av",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Euclid Av"
+      }
+    },
+    "A44": {
+      "stop_name": "Clinton-Washington Avs",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Euclid Av"
+      }
+    },
+    "A45": {
+      "stop_name": "Franklin Av",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Euclid Av"
+      }
+    },
+    "A46": {
+      "stop_name": "Nostrand Av",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Euclid Av"
+      }
+    },
+    "A47": {
+      "stop_name": "Kingston-Throop Avs",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Euclid Av"
+      }
+    },
+    "A48": {
+      "stop_name": "Utica Av",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Euclid Av"
+      }
+    },
+    "A49": {
+      "stop_name": "Ralph Av",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Euclid Av"
+      }
+    },
+    "A50": {
+      "stop_name": "Rockaway Av",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Euclid Av"
+      }
+    },
+    "A51": {
+      "stop_name": "Broadway Junction",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Euclid Av"
+      }
+    },
+    "A52": {
+      "stop_name": "Liberty Av",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Euclid Av"
+      }
+    },
+    "A53": {
+      "stop_name": "Van Siclen Av",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Euclid Av"
+      }
+    },
+    "A54": {
+      "stop_name": "Shepherd Av",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Euclid Av"
+      }
+    },
+    "A55": {
+      "stop_name": "Euclid Av",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Euclid Av"
+      }
+    }
+  },
+  "D": {
+    "D01": {
+      "stop_name": "Norwood-205 St",
+      "direction_names": {
+        "north": "Norwood-205 St",
+        "south": "Manhattan & Brooklyn"
+      }
+    },
+    "D03": {
+      "stop_name": "Bedford Park Blvd",
+      "direction_names": {
+        "north": "Uptown to Norwood-205 St",
+        "south": "Manhattan & Brooklyn"
+      }
+    },
+    "D04": {
+      "stop_name": "Kingsbridge Rd",
+      "direction_names": {
+        "north": "Uptown to Norwood-205 St",
+        "south": "Manhattan & Brooklyn"
+      }
+    },
+    "D05": {
+      "stop_name": "Fordham Rd",
+      "direction_names": {
+        "north": "Uptown to Norwood-205 St",
+        "south": "Manhattan & Brooklyn"
+      }
+    },
+    "D06": {
+      "stop_name": "182-183 Sts",
+      "direction_names": {
+        "north": "Uptown to Norwood-205 St",
+        "south": "Manhattan & Brooklyn"
+      }
+    },
+    "D07": {
+      "stop_name": "Tremont Av",
+      "direction_names": {
+        "north": "Uptown to Norwood-205 St",
+        "south": "Manhattan & Brooklyn"
+      }
+    },
+    "D08": {
+      "stop_name": "174-175 Sts",
+      "direction_names": {
+        "north": "Uptown to Norwood-205 St",
+        "south": "Manhattan & Brooklyn"
+      }
+    },
+    "D09": {
+      "stop_name": "170 St",
+      "direction_names": {
+        "north": "Uptown to Norwood-205 St",
+        "south": "Manhattan & Brooklyn"
+      }
+    },
+    "D10": {
+      "stop_name": "167 St",
+      "direction_names": {
+        "north": "Uptown to Norwood-205 St",
+        "south": "Manhattan & Brooklyn"
+      }
+    },
+    "D11": {
+      "stop_name": "161 St-Yankee Stadium",
+      "direction_names": {
+        "north": "Uptown to Norwood-205 St",
+        "south": "Manhattan & Brooklyn"
+      }
+    },
+    "D12": {
+      "stop_name": "155 St",
+      "direction_names": {
+        "north": "Uptown & The Bronx",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "D13": {
+      "stop_name": "145 St",
+      "direction_names": {
+        "north": "Uptown & The Bronx",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "A15": {
+      "stop_name": "125 St",
+      "direction_names": {
+        "north": "Uptown & The Bronx",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "A24": {
+      "stop_name": "59 St-Columbus Circle",
+      "direction_names": {
+        "north": "Uptown & The Bronx",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "D14": {
+      "stop_name": "7 Av",
+      "direction_names": {
+        "north": "Uptown & The Bronx",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "D15": {
+      "stop_name": "47-50 Sts-Rockefeller Ctr",
+      "direction_names": {
+        "north": "Uptown & The Bronx",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "D16": {
+      "stop_name": "42 St-Bryant Pk",
+      "direction_names": {
+        "north": "Uptown & The Bronx",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "D17": {
+      "stop_name": "34 St-Herald Sq",
+      "direction_names": {
+        "north": "Uptown & The Bronx",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "D20": {
+      "stop_name": "W 4 St-Wash Sq",
+      "direction_names": {
+        "north": "Uptown & The Bronx",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "D21": {
+      "stop_name": "Broadway-Lafayette St",
+      "direction_names": {
+        "north": "Uptown & The Bronx",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "D22": {
+      "stop_name": "Grand St",
+      "direction_names": {
+        "north": "Uptown & The Bronx",
+        "south": "Brooklyn"
+      }
+    },
+    "R30": {
+      "stop_name": "DeKalb Av",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Coney Island"
+      }
+    },
+    "R31": {
+      "stop_name": "Atlantic Av-Barclays Ctr",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Coney Island"
+      }
+    },
+    "R32": {
+      "stop_name": "Union St",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Coney Island"
+      }
+    },
+    "R33": {
+      "stop_name": "4 Av-9 St",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Coney Island"
+      }
+    },
+    "R34": {
+      "stop_name": "Prospect Av",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Coney Island"
+      }
+    },
+    "R35": {
+      "stop_name": "25 St",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Coney Island"
+      }
+    },
+    "R36": {
+      "stop_name": "36 St",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Coney Island"
+      }
+    },
+    "B12": {
+      "stop_name": "9 Av",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Coney Island"
+      }
+    },
+    "B13": {
+      "stop_name": "Fort Hamilton Pkwy",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Coney Island"
+      }
+    },
+    "B14": {
+      "stop_name": "50 St",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Coney Island"
+      }
+    },
+    "B15": {
+      "stop_name": "55 St",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Coney Island"
+      }
+    },
+    "B16": {
+      "stop_name": "62 St",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Coney Island"
+      }
+    },
+    "B17": {
+      "stop_name": "71 St",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Coney Island"
+      }
+    },
+    "B18": {
+      "stop_name": "79 St",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Coney Island"
+      }
+    },
+    "B19": {
+      "stop_name": "18 Av",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Coney Island"
+      }
+    },
+    "B20": {
+      "stop_name": "20 Av",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Coney Island"
+      }
+    },
+    "B21": {
+      "stop_name": "Bay Pkwy",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Coney Island"
+      }
+    },
+    "B22": {
+      "stop_name": "25 Av",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Coney Island"
+      }
+    },
+    "B23": {
+      "stop_name": "Bay 50 St",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Coney Island"
+      }
+    },
+    "D43": {
+      "stop_name": "Coney Island-Stillwell Av",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Coney Island"
+      }
+    }
+  },
+  "E": {
+    "G05": {
+      "stop_name": "Jamaica Center-Parsons/Archer",
+      "direction_names": {
+        "north": "Jamaica Center",
+        "south": "Manhattan"
+      }
+    },
+    "G06": {
+      "stop_name": "Sutphin Blvd-Archer Av-JFK Airport",
+      "direction_names": {
+        "north": "Jamaica Center",
+        "south": "Manhattan"
+      }
+    },
+    "G07": {
+      "stop_name": "Jamaica-Van Wyck",
+      "direction_names": {
+        "north": "Jamaica Center",
+        "south": "Manhattan"
+      }
+    },
+    "F05": {
+      "stop_name": "Briarwood",
+      "direction_names": {
+        "north": "Jamaica Center",
+        "south": "Manhattan"
+      }
+    },
+    "F06": {
+      "stop_name": "Kew Gardens-Union Tpke",
+      "direction_names": {
+        "north": "Jamaica Center",
+        "south": "Manhattan"
+      }
+    },
+    "F07": {
+      "stop_name": "75 Av",
+      "direction_names": {
+        "north": "Jamaica Center",
+        "south": "Manhattan"
+      }
+    },
+    "G08": {
+      "stop_name": "Forest Hills-71 Av",
+      "direction_names": {
+        "north": "Jamaica Center",
+        "south": "Manhattan"
+      }
+    },
+    "G09": {
+      "stop_name": "67 Av",
+      "direction_names": {
+        "north": "Jamaica Center",
+        "south": "Manhattan"
+      }
+    },
+    "G10": {
+      "stop_name": "63 Dr-Rego Park",
+      "direction_names": {
+        "north": "Jamaica Center",
+        "south": "Manhattan"
+      }
+    },
+    "G11": {
+      "stop_name": "Woodhaven Blvd",
+      "direction_names": {
+        "north": "Jamaica Center",
+        "south": "Manhattan"
+      }
+    },
+    "G12": {
+      "stop_name": "Grand Av-Newtown",
+      "direction_names": {
+        "north": "Jamaica Center",
+        "south": "Manhattan"
+      }
+    },
+    "G13": {
+      "stop_name": "Elmhurst Av",
+      "direction_names": {
+        "north": "Jamaica Center",
+        "south": "Manhattan"
+      }
+    },
+    "G14": {
+      "stop_name": "Jackson Hts-Roosevelt Av",
+      "direction_names": {
+        "north": "Jamaica Center",
+        "south": "Manhattan"
+      }
+    },
+    "G15": {
+      "stop_name": "65 St",
+      "direction_names": {
+        "north": "Jamaica Center",
+        "south": "Manhattan"
+      }
+    },
+    "G16": {
+      "stop_name": "Northern Blvd",
+      "direction_names": {
+        "north": "Jamaica Center",
+        "south": "Manhattan"
+      }
+    },
+    "G18": {
+      "stop_name": "46 St",
+      "direction_names": {
+        "north": "Jamaica Center",
+        "south": "Manhattan"
+      }
+    },
+    "G19": {
+      "stop_name": "Steinway St",
+      "direction_names": {
+        "north": "Jamaica Center",
+        "south": "Manhattan"
+      }
+    },
+    "G20": {
+      "stop_name": "36 St",
+      "direction_names": {
+        "north": "Jamaica Center",
+        "south": "Manhattan"
+      }
+    },
+    "G21": {
+      "stop_name": "Queens Plaza",
+      "direction_names": {
+        "north": "Jamaica Center",
+        "south": "Manhattan"
+      }
+    },
+    "F09": {
+      "stop_name": "Court Sq-23 St",
+      "direction_names": {
+        "north": "Jamaica Center",
+        "south": "Manhattan"
+      }
+    },
+    "F11": {
+      "stop_name": "Lexington Av/53 St",
+      "direction_names": {
+        "north": "Queens",
+        "south": "Downtown to World Trade Center"
+      }
+    },
+    "F12": {
+      "stop_name": "5 Av/53 St",
+      "direction_names": {
+        "north": "Uptown & Queens",
+        "south": "Downtown to World Trade Center"
+      }
+    },
+    "D14": {
+      "stop_name": "7 Av",
+      "direction_names": {
+        "north": "Uptown & Queens",
+        "south": "Downtown to World Trade Center"
+      }
+    },
+    "A25": {
+      "stop_name": "50 St",
+      "direction_names": {
+        "north": "Uptown & Queens",
+        "south": "Downtown to World Trade Center"
+      }
+    },
+    "A27": {
+      "stop_name": "42 St-Port Authority Bus Terminal",
+      "direction_names": {
+        "north": "Uptown & Queens",
+        "south": "Downtown to World Trade Center"
+      }
+    },
+    "A28": {
+      "stop_name": "34 St-Penn Station",
+      "direction_names": {
+        "north": "Uptown & Queens",
+        "south": "Downtown to World Trade Center"
+      }
+    },
+    "A30": {
+      "stop_name": "23 St",
+      "direction_names": {
+        "north": "Uptown & Queens",
+        "south": "Downtown to World Trade Center"
+      }
+    },
+    "A31": {
+      "stop_name": "14 St",
+      "direction_names": {
+        "north": "Uptown & Queens",
+        "south": "Downtown to World Trade Center"
+      }
+    },
+    "A32": {
+      "stop_name": "W 4 St-Wash Sq",
+      "direction_names": {
+        "north": "Uptown & Queens",
+        "south": "Downtown to World Trade Center"
+      }
+    },
+    "A33": {
+      "stop_name": "Spring St",
+      "direction_names": {
+        "north": "Uptown & Queens",
+        "south": "Downtown to World Trade Center"
+      }
+    },
+    "A34": {
+      "stop_name": "Canal St",
+      "direction_names": {
+        "north": "Uptown & Queens",
+        "south": "Downtown to World Trade Center"
+      }
+    },
+    "E01": {
+      "stop_name": "World Trade Center",
+      "direction_names": {
+        "north": "Uptown & Queens",
+        "south": "Downtown to World Trade Center"
+      }
+    },
+    "F01": {
+      "stop_name": "Jamaica-179 St",
+      "direction_names": {
+        "north": "Jamaica-179 St",
+        "south": "Manhattan"
+      }
+    },
+    "F02": {
+      "stop_name": "169 St",
+      "direction_names": {
+        "north": "Jamaica-179 St",
+        "south": "Manhattan"
+      }
+    },
+    "F03": {
+      "stop_name": "Parsons Blvd",
+      "direction_names": {
+        "north": "Jamaica-179 St",
+        "south": "Manhattan"
+      }
+    },
+    "F04": {
+      "stop_name": "Sutphin Blvd",
+      "direction_names": {
+        "north": "Jamaica-179 St",
+        "south": "Manhattan"
+      }
+    }
+  },
+  "F": {
+    "F01": {
+      "stop_name": "Jamaica-179 St",
+      "direction_names": {
+        "north": "Jamaica-179 St",
+        "south": "Manhattan"
+      }
+    },
+    "F02": {
+      "stop_name": "169 St",
+      "direction_names": {
+        "north": "Jamaica-179 St",
+        "south": "Manhattan"
+      }
+    },
+    "F03": {
+      "stop_name": "Parsons Blvd",
+      "direction_names": {
+        "north": "Jamaica-179 St",
+        "south": "Manhattan"
+      }
+    },
+    "F04": {
+      "stop_name": "Sutphin Blvd",
+      "direction_names": {
+        "north": "Jamaica-179 St",
+        "south": "Manhattan"
+      }
+    },
+    "F05": {
+      "stop_name": "Briarwood",
+      "direction_names": {
+        "north": "Jamaica-179 St",
+        "south": "Manhattan"
+      }
+    },
+    "F06": {
+      "stop_name": "Kew Gardens-Union Tpke",
+      "direction_names": {
+        "north": "Jamaica-179 St",
+        "south": "Manhattan"
+      }
+    },
+    "F07": {
+      "stop_name": "75 Av",
+      "direction_names": {
+        "north": "Jamaica-179 St",
+        "south": "Manhattan"
+      }
+    },
+    "G08": {
+      "stop_name": "Forest Hills-71 Av",
+      "direction_names": {
+        "north": "Jamaica-179 St",
+        "south": "Manhattan"
+      }
+    },
+    "G09": {
+      "stop_name": "67 Av",
+      "direction_names": {
+        "north": "Jamaica-179 St",
+        "south": "Manhattan"
+      }
+    },
+    "G10": {
+      "stop_name": "63 Dr-Rego Park",
+      "direction_names": {
+        "north": "Jamaica-179 St",
+        "south": "Manhattan"
+      }
+    },
+    "G11": {
+      "stop_name": "Woodhaven Blvd",
+      "direction_names": {
+        "north": "Jamaica-179 St",
+        "south": "Manhattan"
+      }
+    },
+    "G12": {
+      "stop_name": "Grand Av-Newtown",
+      "direction_names": {
+        "north": "Jamaica-179 St",
+        "south": "Manhattan"
+      }
+    },
+    "G13": {
+      "stop_name": "Elmhurst Av",
+      "direction_names": {
+        "north": "Jamaica-179 St",
+        "south": "Manhattan"
+      }
+    },
+    "G14": {
+      "stop_name": "Jackson Hts-Roosevelt Av",
+      "direction_names": {
+        "north": "Jamaica-179 St",
+        "south": "Manhattan"
+      }
+    },
+    "G15": {
+      "stop_name": "65 St",
+      "direction_names": {
+        "north": "Jamaica-179 St",
+        "south": "Manhattan"
+      }
+    },
+    "G16": {
+      "stop_name": "Northern Blvd",
+      "direction_names": {
+        "north": "Jamaica-179 St",
+        "south": "Manhattan"
+      }
+    },
+    "G18": {
+      "stop_name": "46 St",
+      "direction_names": {
+        "north": "Jamaica-179 St",
+        "south": "Manhattan"
+      }
+    },
+    "G19": {
+      "stop_name": "Steinway St",
+      "direction_names": {
+        "north": "Jamaica-179 St",
+        "south": "Manhattan"
+      }
+    },
+    "G20": {
+      "stop_name": "36 St",
+      "direction_names": {
+        "north": "Jamaica-179 St",
+        "south": "Manhattan"
+      }
+    },
+    "B04": {
+      "stop_name": "21 St-Queensbridge",
+      "direction_names": {
+        "north": "Jamaica-179 St",
+        "south": "Manhattan"
+      }
+    },
+    "B06": {
+      "stop_name": "Roosevelt Island",
+      "direction_names": {
+        "north": "Queens",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "B08": {
+      "stop_name": "Lexington Av/63 St",
+      "direction_names": {
+        "north": "Uptown & Queens",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "B10": {
+      "stop_name": "57 St",
+      "direction_names": {
+        "north": "Uptown & Queens",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "D15": {
+      "stop_name": "47-50 Sts-Rockefeller Ctr",
+      "direction_names": {
+        "north": "Uptown & Queens",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "D16": {
+      "stop_name": "42 St-Bryant Pk",
+      "direction_names": {
+        "north": "Uptown & Queens",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "D17": {
+      "stop_name": "34 St-Herald Sq",
+      "direction_names": {
+        "north": "Uptown & Queens",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "D18": {
+      "stop_name": "23 St",
+      "direction_names": {
+        "north": "Uptown & Queens",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "D19": {
+      "stop_name": "14 St",
+      "direction_names": {
+        "north": "Uptown & Queens",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "D20": {
+      "stop_name": "W 4 St-Wash Sq",
+      "direction_names": {
+        "north": "Uptown & Queens",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "D21": {
+      "stop_name": "Broadway-Lafayette St",
+      "direction_names": {
+        "north": "Uptown & Queens",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "F14": {
+      "stop_name": "2 Av",
+      "direction_names": {
+        "north": "Uptown & Queens",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "F15": {
+      "stop_name": "Delancey St-Essex St",
+      "direction_names": {
+        "north": "Uptown & Queens",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "F16": {
+      "stop_name": "East Broadway",
+      "direction_names": {
+        "north": "Uptown & Queens",
+        "south": "Brooklyn"
+      }
+    },
+    "F18": {
+      "stop_name": "York St",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Coney Island"
+      }
+    },
+    "A41": {
+      "stop_name": "Jay St-MetroTech",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Coney Island"
+      }
+    },
+    "F20": {
+      "stop_name": "Bergen St",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Coney Island"
+      }
+    },
+    "F21": {
+      "stop_name": "Carroll St",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Coney Island"
+      }
+    },
+    "F22": {
+      "stop_name": "Smith-9 Sts",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Coney Island"
+      }
+    },
+    "F23": {
+      "stop_name": "4 Av-9 St",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Coney Island"
+      }
+    },
+    "F24": {
+      "stop_name": "7 Av",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Coney Island"
+      }
+    },
+    "F25": {
+      "stop_name": "15 St-Prospect Park",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Coney Island"
+      }
+    },
+    "F26": {
+      "stop_name": "Fort Hamilton Pkwy",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Coney Island"
+      }
+    },
+    "F27": {
+      "stop_name": "Church Av",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Coney Island"
+      }
+    },
+    "F29": {
+      "stop_name": "Ditmas Av",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Coney Island"
+      }
+    },
+    "F30": {
+      "stop_name": "18 Av",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Coney Island"
+      }
+    },
+    "F31": {
+      "stop_name": "Avenue I",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Coney Island"
+      }
+    },
+    "F32": {
+      "stop_name": "Bay Pkwy",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Coney Island"
+      }
+    },
+    "F33": {
+      "stop_name": "Avenue N",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Coney Island"
+      }
+    },
+    "F34": {
+      "stop_name": "Avenue P",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Coney Island"
+      }
+    },
+    "F35": {
+      "stop_name": "Kings Hwy",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Coney Island"
+      }
+    },
+    "F36": {
+      "stop_name": "Avenue U",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Coney Island"
+      }
+    },
+    "F38": {
+      "stop_name": "Avenue X",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Coney Island"
+      }
+    },
+    "F39": {
+      "stop_name": "Neptune Av",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Coney Island"
+      }
+    },
+    "D42": {
+      "stop_name": "W 8 St-NY Aquarium",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Coney Island"
+      }
+    },
+    "D43": {
+      "stop_name": "Coney Island-Stillwell Av",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Coney Island"
+      }
+    }
+  },
+  "FX": {
+    "F01": {
+      "stop_name": "Jamaica-179 St",
+      "direction_names": {
+        "north": "Jamaica-179 St",
+        "south": "Manhattan"
+      }
+    },
+    "F02": {
+      "stop_name": "169 St",
+      "direction_names": {
+        "north": "Jamaica-179 St",
+        "south": "Manhattan"
+      }
+    },
+    "F03": {
+      "stop_name": "Parsons Blvd",
+      "direction_names": {
+        "north": "Jamaica-179 St",
+        "south": "Manhattan"
+      }
+    },
+    "F04": {
+      "stop_name": "Sutphin Blvd",
+      "direction_names": {
+        "north": "Jamaica-179 St",
+        "south": "Manhattan"
+      }
+    },
+    "F05": {
+      "stop_name": "Briarwood",
+      "direction_names": {
+        "north": "Jamaica-179 St",
+        "south": "Manhattan"
+      }
+    },
+    "F06": {
+      "stop_name": "Kew Gardens-Union Tpke",
+      "direction_names": {
+        "north": "Jamaica-179 St",
+        "south": "Manhattan"
+      }
+    },
+    "F07": {
+      "stop_name": "75 Av",
+      "direction_names": {
+        "north": "Jamaica-179 St",
+        "south": "Manhattan"
+      }
+    },
+    "G08": {
+      "stop_name": "Forest Hills-71 Av",
+      "direction_names": {
+        "north": "Jamaica-179 St",
+        "south": "Manhattan"
+      }
+    },
+    "G14": {
+      "stop_name": "Jackson Hts-Roosevelt Av",
+      "direction_names": {
+        "north": "Jamaica-179 St",
+        "south": "Manhattan"
+      }
+    },
+    "G21": {
+      "stop_name": "Queens Plaza",
+      "direction_names": {
+        "north": "Jamaica-179 St",
+        "south": "Manhattan"
+      }
+    },
+    "F09": {
+      "stop_name": "Court Sq-23 St",
+      "direction_names": {
+        "north": "Jamaica-179 St",
+        "south": "Manhattan"
+      }
+    },
+    "F11": {
+      "stop_name": "Lexington Av/53 St",
+      "direction_names": {
+        "north": "Queens",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "F12": {
+      "stop_name": "5 Av/53 St",
+      "direction_names": {
+        "north": "Uptown & Queens",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "D15": {
+      "stop_name": "47-50 Sts-Rockefeller Ctr",
+      "direction_names": {
+        "north": "Uptown & Queens",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "D16": {
+      "stop_name": "42 St-Bryant Pk",
+      "direction_names": {
+        "north": "Uptown & Queens",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "D17": {
+      "stop_name": "34 St-Herald Sq",
+      "direction_names": {
+        "north": "Uptown & Queens",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "D18": {
+      "stop_name": "23 St",
+      "direction_names": {
+        "north": "Uptown & Queens",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "D19": {
+      "stop_name": "14 St",
+      "direction_names": {
+        "north": "Uptown & Queens",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "D20": {
+      "stop_name": "W 4 St-Wash Sq",
+      "direction_names": {
+        "north": "Uptown & Queens",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "D21": {
+      "stop_name": "Broadway-Lafayette St",
+      "direction_names": {
+        "north": "Uptown & Queens",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "F14": {
+      "stop_name": "2 Av",
+      "direction_names": {
+        "north": "Uptown & Queens",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "F15": {
+      "stop_name": "Delancey St-Essex St",
+      "direction_names": {
+        "north": "Uptown & Queens",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "F16": {
+      "stop_name": "East Broadway",
+      "direction_names": {
+        "north": "Uptown & Queens",
+        "south": "Brooklyn"
+      }
+    },
+    "F18": {
+      "stop_name": "York St",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Coney Island"
+      }
+    },
+    "A41": {
+      "stop_name": "Jay St-MetroTech",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Coney Island"
+      }
+    },
+    "F24": {
+      "stop_name": "7 Av",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Coney Island"
+      }
+    },
+    "F27": {
+      "stop_name": "Church Av",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Coney Island"
+      }
+    },
+    "F29": {
+      "stop_name": "Ditmas Av",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Coney Island"
+      }
+    },
+    "F30": {
+      "stop_name": "18 Av",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Coney Island"
+      }
+    },
+    "F31": {
+      "stop_name": "Avenue I",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Coney Island"
+      }
+    },
+    "F32": {
+      "stop_name": "Bay Pkwy",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Coney Island"
+      }
+    },
+    "F33": {
+      "stop_name": "Avenue N",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Coney Island"
+      }
+    },
+    "F34": {
+      "stop_name": "Avenue P",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Coney Island"
+      }
+    },
+    "F35": {
+      "stop_name": "Kings Hwy",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Coney Island"
+      }
+    },
+    "F36": {
+      "stop_name": "Avenue U",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Coney Island"
+      }
+    },
+    "F38": {
+      "stop_name": "Avenue X",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Coney Island"
+      }
+    },
+    "F39": {
+      "stop_name": "Neptune Av",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Coney Island"
+      }
+    },
+    "D42": {
+      "stop_name": "W 8 St-NY Aquarium",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Coney Island"
+      }
+    },
+    "D43": {
+      "stop_name": "Coney Island-Stillwell Av",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Coney Island"
+      }
+    }
+  },
+  "G": {
+    "G22": {
+      "stop_name": "Court Sq",
+      "direction_names": {
+        "north": "Court Sq",
+        "south": "Church Av"
+      }
+    },
+    "G24": {
+      "stop_name": "21 St",
+      "direction_names": {
+        "north": "Court Sq",
+        "south": "Church Av"
+      }
+    },
+    "G26": {
+      "stop_name": "Greenpoint Av",
+      "direction_names": {
+        "north": "Court Sq",
+        "south": "Church Av"
+      }
+    },
+    "G28": {
+      "stop_name": "Nassau Av",
+      "direction_names": {
+        "north": "Court Sq",
+        "south": "Church Av"
+      }
+    },
+    "G29": {
+      "stop_name": "Metropolitan Av",
+      "direction_names": {
+        "north": "Court Sq",
+        "south": "Church Av"
+      }
+    },
+    "G30": {
+      "stop_name": "Broadway",
+      "direction_names": {
+        "north": "Court Sq",
+        "south": "Church Av"
+      }
+    },
+    "G31": {
+      "stop_name": "Flushing Av",
+      "direction_names": {
+        "north": "Court Sq",
+        "south": "Church Av"
+      }
+    },
+    "G32": {
+      "stop_name": "Myrtle-Willoughby Avs",
+      "direction_names": {
+        "north": "Court Sq",
+        "south": "Church Av"
+      }
+    },
+    "G33": {
+      "stop_name": "Bedford-Nostrand Avs",
+      "direction_names": {
+        "north": "Court Sq",
+        "south": "Church Av"
+      }
+    },
+    "G34": {
+      "stop_name": "Classon Av",
+      "direction_names": {
+        "north": "Court Sq",
+        "south": "Church Av"
+      }
+    },
+    "G35": {
+      "stop_name": "Clinton-Washington Avs",
+      "direction_names": {
+        "north": "Court Sq",
+        "south": "Church Av"
+      }
+    },
+    "G36": {
+      "stop_name": "Fulton St",
+      "direction_names": {
+        "north": "Court Sq",
+        "south": "Church Av"
+      }
+    },
+    "A42": {
+      "stop_name": "Hoyt-Schermerhorn Sts",
+      "direction_names": {
+        "north": "Court Sq",
+        "south": "Church Av"
+      }
+    },
+    "F20": {
+      "stop_name": "Bergen St",
+      "direction_names": {
+        "north": "Court Sq",
+        "south": "Church Av"
+      }
+    },
+    "F21": {
+      "stop_name": "Carroll St",
+      "direction_names": {
+        "north": "Court Sq",
+        "south": "Church Av"
+      }
+    },
+    "F22": {
+      "stop_name": "Smith-9 Sts",
+      "direction_names": {
+        "north": "Court Sq",
+        "south": "Church Av"
+      }
+    },
+    "F23": {
+      "stop_name": "4 Av-9 St",
+      "direction_names": {
+        "north": "Court Sq",
+        "south": "Church Av"
+      }
+    },
+    "F24": {
+      "stop_name": "7 Av",
+      "direction_names": {
+        "north": "Court Sq",
+        "south": "Church Av"
+      }
+    },
+    "F25": {
+      "stop_name": "15 St-Prospect Park",
+      "direction_names": {
+        "north": "Court Sq",
+        "south": "Church Av"
+      }
+    },
+    "F26": {
+      "stop_name": "Fort Hamilton Pkwy",
+      "direction_names": {
+        "north": "Court Sq",
+        "south": "Church Av"
+      }
+    },
+    "F27": {
+      "stop_name": "Church Av",
+      "direction_names": {
+        "north": "Court Sq",
+        "south": "Church Av"
+      }
+    }
+  },
+  "J": {
+    "G05": {
+      "stop_name": "Jamaica Center-Parsons/Archer",
+      "direction_names": {
+        "north": "Jamaica Center",
+        "south": "Manhattan"
+      }
+    },
+    "G06": {
+      "stop_name": "Sutphin Blvd-Archer Av-JFK Airport",
+      "direction_names": {
+        "north": "Jamaica Center",
+        "south": "Manhattan"
+      }
+    },
+    "J12": {
+      "stop_name": "121 St",
+      "direction_names": {
+        "north": "Jamaica Center",
+        "south": "Manhattan"
+      }
+    },
+    "J13": {
+      "stop_name": "111 St",
+      "direction_names": {
+        "north": "Jamaica Center",
+        "south": "Manhattan"
+      }
+    },
+    "J14": {
+      "stop_name": "104 St",
+      "direction_names": {
+        "north": "Jamaica Center",
+        "south": "Manhattan"
+      }
+    },
+    "J15": {
+      "stop_name": "Woodhaven Blvd",
+      "direction_names": {
+        "north": "Jamaica Center",
+        "south": "Manhattan"
+      }
+    },
+    "J16": {
+      "stop_name": "85 St-Forest Pkwy",
+      "direction_names": {
+        "north": "Jamaica Center",
+        "south": "Manhattan"
+      }
+    },
+    "J17": {
+      "stop_name": "75 St-Elderts Ln",
+      "direction_names": {
+        "north": "Jamaica Center",
+        "south": "Manhattan"
+      }
+    },
+    "J19": {
+      "stop_name": "Cypress Hills",
+      "direction_names": {
+        "north": "Jamaica Center",
+        "south": "Manhattan"
+      }
+    },
+    "J20": {
+      "stop_name": "Crescent St",
+      "direction_names": {
+        "north": "Jamaica Center",
+        "south": "Manhattan"
+      }
+    },
+    "J21": {
+      "stop_name": "Norwood Av",
+      "direction_names": {
+        "north": "Jamaica Center",
+        "south": "Manhattan"
+      }
+    },
+    "J22": {
+      "stop_name": "Cleveland St",
+      "direction_names": {
+        "north": "Jamaica Center",
+        "south": "Manhattan"
+      }
+    },
+    "J23": {
+      "stop_name": "Van Siclen Av",
+      "direction_names": {
+        "north": "Jamaica Center",
+        "south": "Manhattan"
+      }
+    },
+    "J24": {
+      "stop_name": "Alabama Av",
+      "direction_names": {
+        "north": "Jamaica Center",
+        "south": "Manhattan"
+      }
+    },
+    "J27": {
+      "stop_name": "Broadway Junction",
+      "direction_names": {
+        "north": "Jamaica Center",
+        "south": "Manhattan"
+      }
+    },
+    "J28": {
+      "stop_name": "Chauncey St",
+      "direction_names": {
+        "north": "Jamaica Center",
+        "south": "Manhattan"
+      }
+    },
+    "J29": {
+      "stop_name": "Halsey St",
+      "direction_names": {
+        "north": "Jamaica Center",
+        "south": "Manhattan"
+      }
+    },
+    "J30": {
+      "stop_name": "Gates Av",
+      "direction_names": {
+        "north": "Jamaica Center",
+        "south": "Manhattan"
+      }
+    },
+    "J31": {
+      "stop_name": "Kosciuszko St",
+      "direction_names": {
+        "north": "Jamaica Center",
+        "south": "Manhattan"
+      }
+    },
+    "M11": {
+      "stop_name": "Myrtle Av",
+      "direction_names": {
+        "north": "Jamaica Center",
+        "south": "Manhattan"
+      }
+    },
+    "M12": {
+      "stop_name": "Flushing Av",
+      "direction_names": {
+        "north": "Jamaica Center",
+        "south": "Manhattan"
+      }
+    },
+    "M13": {
+      "stop_name": "Lorimer St",
+      "direction_names": {
+        "north": "Jamaica Center",
+        "south": "Manhattan"
+      }
+    },
+    "M14": {
+      "stop_name": "Hewes St",
+      "direction_names": {
+        "north": "Jamaica Center",
+        "south": "Manhattan"
+      }
+    },
+    "M16": {
+      "stop_name": "Marcy Av",
+      "direction_names": {
+        "north": "Jamaica Center",
+        "south": "Manhattan"
+      }
+    },
+    "M18": {
+      "stop_name": "Delancey St-Essex St",
+      "direction_names": {
+        "north": "Uptown Brooklyn & Queens",
+        "south": "Downtown to Broad St"
+      }
+    },
+    "M19": {
+      "stop_name": "Bowery",
+      "direction_names": {
+        "north": "Uptown Brooklyn & Queens",
+        "south": "Downtown to Broad St"
+      }
+    },
+    "M20": {
+      "stop_name": "Canal St",
+      "direction_names": {
+        "north": "Uptown Brooklyn & Queens",
+        "south": "Downtown to Broad St"
+      }
+    },
+    "M21": {
+      "stop_name": "Chambers St",
+      "direction_names": {
+        "north": "Uptown Brooklyn & Queens",
+        "south": "Downtown to Broad St"
+      }
+    },
+    "M22": {
+      "stop_name": "Fulton St",
+      "direction_names": {
+        "north": "Uptown Brooklyn & Queens",
+        "south": "Downtown to Broad St"
+      }
+    },
+    "M23": {
+      "stop_name": "Broad St",
+      "direction_names": {
+        "north": "Uptown Brooklyn & Queens",
+        "south": "Downtown to Broad St"
+      }
+    }
+  },
+  "L": {
+    "L01": {
+      "stop_name": "8 Av",
+      "direction_names": {
+        "north": "8 Av",
+        "south": "Brooklyn"
+      }
+    },
+    "L02": {
+      "stop_name": "6 Av",
+      "direction_names": {
+        "north": "8 Av",
+        "south": "Brooklyn"
+      }
+    },
+    "L03": {
+      "stop_name": "14 St-Union Sq",
+      "direction_names": {
+        "north": "8 Av",
+        "south": "Brooklyn"
+      }
+    },
+    "L05": {
+      "stop_name": "3 Av",
+      "direction_names": {
+        "north": "8 Av",
+        "south": "Brooklyn"
+      }
+    },
+    "L06": {
+      "stop_name": "1 Av",
+      "direction_names": {
+        "north": "8 Av",
+        "south": "Brooklyn"
+      }
+    },
+    "L08": {
+      "stop_name": "Bedford Av",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Canarsie"
+      }
+    },
+    "L10": {
+      "stop_name": "Lorimer St",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Canarsie"
+      }
+    },
+    "L11": {
+      "stop_name": "Graham Av",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Canarsie"
+      }
+    },
+    "L12": {
+      "stop_name": "Grand St",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Canarsie"
+      }
+    },
+    "L13": {
+      "stop_name": "Montrose Av",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Canarsie"
+      }
+    },
+    "L14": {
+      "stop_name": "Morgan Av",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Canarsie"
+      }
+    },
+    "L15": {
+      "stop_name": "Jefferson St",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Canarsie"
+      }
+    },
+    "L16": {
+      "stop_name": "DeKalb Av",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Canarsie"
+      }
+    },
+    "L17": {
+      "stop_name": "Myrtle-Wyckoff Avs",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Canarsie"
+      }
+    },
+    "L19": {
+      "stop_name": "Halsey St",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Canarsie"
+      }
+    },
+    "L20": {
+      "stop_name": "Wilson Av",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Canarsie"
+      }
+    },
+    "L21": {
+      "stop_name": "Bushwick Av-Aberdeen St",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Canarsie"
+      }
+    },
+    "L22": {
+      "stop_name": "Broadway Junction",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Canarsie"
+      }
+    },
+    "L24": {
+      "stop_name": "Atlantic Av",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Canarsie"
+      }
+    },
+    "L25": {
+      "stop_name": "Sutter Av",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Canarsie"
+      }
+    },
+    "L26": {
+      "stop_name": "Livonia Av",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Canarsie"
+      }
+    },
+    "L27": {
+      "stop_name": "New Lots Av",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Canarsie"
+      }
+    },
+    "L28": {
+      "stop_name": "East 105 St",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Canarsie"
+      }
+    },
+    "L29": {
+      "stop_name": "Canarsie-Rockaway Pkwy",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Canarsie"
+      }
+    }
+  },
+  "M": {
+    "G08": {
+      "stop_name": "Forest Hills-71 Av",
+      "direction_names": {
+        "north": "Forest Hills",
+        "south": "Manhattan"
+      }
+    },
+    "G09": {
+      "stop_name": "67 Av",
+      "direction_names": {
+        "north": "Forest Hills",
+        "south": "Manhattan"
+      }
+    },
+    "G10": {
+      "stop_name": "63 Dr-Rego Park",
+      "direction_names": {
+        "north": "Forest Hills",
+        "south": "Manhattan"
+      }
+    },
+    "G11": {
+      "stop_name": "Woodhaven Blvd",
+      "direction_names": {
+        "north": "Forest Hills",
+        "south": "Manhattan"
+      }
+    },
+    "G12": {
+      "stop_name": "Grand Av-Newtown",
+      "direction_names": {
+        "north": "Forest Hills",
+        "south": "Manhattan"
+      }
+    },
+    "G13": {
+      "stop_name": "Elmhurst Av",
+      "direction_names": {
+        "north": "Forest Hills",
+        "south": "Manhattan"
+      }
+    },
+    "G14": {
+      "stop_name": "Jackson Hts-Roosevelt Av",
+      "direction_names": {
+        "north": "Forest Hills",
+        "south": "Manhattan"
+      }
+    },
+    "G15": {
+      "stop_name": "65 St",
+      "direction_names": {
+        "north": "Forest Hills",
+        "south": "Manhattan"
+      }
+    },
+    "G16": {
+      "stop_name": "Northern Blvd",
+      "direction_names": {
+        "north": "Forest Hills",
+        "south": "Manhattan"
+      }
+    },
+    "G18": {
+      "stop_name": "46 St",
+      "direction_names": {
+        "north": "Forest Hills",
+        "south": "Manhattan"
+      }
+    },
+    "G19": {
+      "stop_name": "Steinway St",
+      "direction_names": {
+        "north": "Forest Hills",
+        "south": "Manhattan"
+      }
+    },
+    "G20": {
+      "stop_name": "36 St",
+      "direction_names": {
+        "north": "Forest Hills",
+        "south": "Manhattan"
+      }
+    },
+    "B04": {
+      "stop_name": "21 St-Queensbridge",
+      "direction_names": {
+        "north": "Forest Hills",
+        "south": "Manhattan"
+      }
+    },
+    "B06": {
+      "stop_name": "Roosevelt Island",
+      "direction_names": {
+        "north": "Queens",
+        "south": "Downtown Brooklyn & Queens"
+      }
+    },
+    "B08": {
+      "stop_name": "Lexington Av/63 St",
+      "direction_names": {
+        "north": "Uptown & Queens",
+        "south": "Downtown Brooklyn & Queens"
+      }
+    },
+    "B10": {
+      "stop_name": "57 St",
+      "direction_names": {
+        "north": "Uptown & Queens",
+        "south": "Downtown Brooklyn & Queens"
+      }
+    },
+    "D15": {
+      "stop_name": "47-50 Sts-Rockefeller Ctr",
+      "direction_names": {
+        "north": "Uptown & Queens",
+        "south": "Downtown Brooklyn & Queens"
+      }
+    },
+    "D16": {
+      "stop_name": "42 St-Bryant Pk",
+      "direction_names": {
+        "north": "Uptown & Queens",
+        "south": "Downtown Brooklyn & Queens"
+      }
+    },
+    "D17": {
+      "stop_name": "34 St-Herald Sq",
+      "direction_names": {
+        "north": "Uptown & Queens",
+        "south": "Downtown Brooklyn & Queens"
+      }
+    },
+    "D18": {
+      "stop_name": "23 St",
+      "direction_names": {
+        "north": "Uptown & Queens",
+        "south": "Downtown Brooklyn & Queens"
+      }
+    },
+    "D19": {
+      "stop_name": "14 St",
+      "direction_names": {
+        "north": "Uptown & Queens",
+        "south": "Downtown Brooklyn & Queens"
+      }
+    },
+    "D20": {
+      "stop_name": "W 4 St-Wash Sq",
+      "direction_names": {
+        "north": "Uptown & Queens",
+        "south": "Downtown Brooklyn & Queens"
+      }
+    },
+    "D21": {
+      "stop_name": "Broadway-Lafayette St",
+      "direction_names": {
+        "north": "Uptown & Queens",
+        "south": "Downtown Brooklyn & Queens"
+      }
+    },
+    "M18": {
+      "stop_name": "Delancey St-Essex St",
+      "direction_names": {
+        "north": "Uptown & Queens",
+        "south": "Brooklyn & Queens"
+      }
+    },
+    "M16": {
+      "stop_name": "Marcy Av",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Middle Village"
+      }
+    },
+    "M14": {
+      "stop_name": "Hewes St",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Middle Village"
+      }
+    },
+    "M13": {
+      "stop_name": "Lorimer St",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Middle Village"
+      }
+    },
+    "M12": {
+      "stop_name": "Flushing Av",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Middle Village"
+      }
+    },
+    "M11": {
+      "stop_name": "Myrtle Av",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Middle Village"
+      }
+    },
+    "M10": {
+      "stop_name": "Central Av",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Middle Village"
+      }
+    },
+    "M09": {
+      "stop_name": "Knickerbocker Av",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Middle Village"
+      }
+    },
+    "M08": {
+      "stop_name": "Myrtle-Wyckoff Avs",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Middle Village"
+      }
+    },
+    "M06": {
+      "stop_name": "Seneca Av",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Middle Village"
+      }
+    },
+    "M05": {
+      "stop_name": "Forest Av",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Middle Village"
+      }
+    },
+    "M04": {
+      "stop_name": "Fresh Pond Rd",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Middle Village"
+      }
+    },
+    "M01": {
+      "stop_name": "Middle Village-Metropolitan Av",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Middle Village"
+      }
+    }
+  },
+  "N": {
+    "R01": {
+      "stop_name": "Astoria-Ditmars Blvd",
+      "direction_names": {
+        "north": "Astoria",
+        "south": "Manhattan"
+      }
+    },
+    "R03": {
+      "stop_name": "Astoria Blvd",
+      "direction_names": {
+        "north": "Astoria",
+        "south": "Manhattan"
+      }
+    },
+    "R04": {
+      "stop_name": "30 Av",
+      "direction_names": {
+        "north": "Astoria",
+        "south": "Manhattan"
+      }
+    },
+    "R05": {
+      "stop_name": "Broadway",
+      "direction_names": {
+        "north": "Astoria",
+        "south": "Manhattan"
+      }
+    },
+    "R06": {
+      "stop_name": "36 Av",
+      "direction_names": {
+        "north": "Astoria",
+        "south": "Manhattan"
+      }
+    },
+    "R08": {
+      "stop_name": "39 Av-Dutch Kills",
+      "direction_names": {
+        "north": "Astoria",
+        "south": "Manhattan"
+      }
+    },
+    "R09": {
+      "stop_name": "Queensboro Plaza",
+      "direction_names": {
+        "north": "Astoria",
+        "south": "Manhattan"
+      }
+    },
+    "R11": {
+      "stop_name": "Lexington Av/59 St",
+      "direction_names": {
+        "north": "Queens",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "R13": {
+      "stop_name": "5 Av/59 St",
+      "direction_names": {
+        "north": "Uptown & Queens",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "R14": {
+      "stop_name": "57 St-7 Av",
+      "direction_names": {
+        "north": "Uptown & Queens",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "R15": {
+      "stop_name": "49 St",
+      "direction_names": {
+        "north": "Uptown & Queens",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "R16": {
+      "stop_name": "Times Sq-42 St",
+      "direction_names": {
+        "north": "Uptown & Queens",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "R17": {
+      "stop_name": "34 St-Herald Sq",
+      "direction_names": {
+        "north": "Uptown & Queens",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "R18": {
+      "stop_name": "28 St",
+      "direction_names": {
+        "north": "Uptown & Queens",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "R19": {
+      "stop_name": "23 St",
+      "direction_names": {
+        "north": "Uptown & Queens",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "R20": {
+      "stop_name": "14 St-Union Sq",
+      "direction_names": {
+        "north": "Uptown & Queens",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "R21": {
+      "stop_name": "8 St-NYU",
+      "direction_names": {
+        "north": "Uptown & Queens",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "R22": {
+      "stop_name": "Prince St",
+      "direction_names": {
+        "north": "Uptown & Queens",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "R23": {
+      "stop_name": "Canal St",
+      "direction_names": {
+        "north": "Uptown & Queens",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "R24": {
+      "stop_name": "City Hall",
+      "direction_names": {
+        "north": "Uptown & Queens",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "R25": {
+      "stop_name": "Cortlandt St",
+      "direction_names": {
+        "north": "Uptown & Queens",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "R26": {
+      "stop_name": "Rector St",
+      "direction_names": {
+        "north": "Uptown & Queens",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "R27": {
+      "stop_name": "Whitehall St-South Ferry",
+      "direction_names": {
+        "north": "Uptown & Queens",
+        "south": "Brooklyn"
+      }
+    },
+    "R28": {
+      "stop_name": "Court St",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Coney Island"
+      }
+    },
+    "R29": {
+      "stop_name": "Jay St-MetroTech",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Coney Island"
+      }
+    },
+    "R30": {
+      "stop_name": "DeKalb Av",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Coney Island"
+      }
+    },
+    "R31": {
+      "stop_name": "Atlantic Av-Barclays Ctr",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Coney Island"
+      }
+    },
+    "R32": {
+      "stop_name": "Union St",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Coney Island"
+      }
+    },
+    "R33": {
+      "stop_name": "4 Av-9 St",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Coney Island"
+      }
+    },
+    "R34": {
+      "stop_name": "Prospect Av",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Coney Island"
+      }
+    },
+    "R35": {
+      "stop_name": "25 St",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Coney Island"
+      }
+    },
+    "R36": {
+      "stop_name": "36 St",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Coney Island"
+      }
+    },
+    "R39": {
+      "stop_name": "45 St",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Coney Island"
+      }
+    },
+    "R40": {
+      "stop_name": "53 St",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Coney Island"
+      }
+    },
+    "R41": {
+      "stop_name": "59 St",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Coney Island"
+      }
+    },
+    "N02": {
+      "stop_name": "8 Av",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Coney Island"
+      }
+    },
+    "N03": {
+      "stop_name": "Fort Hamilton Pkwy",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Coney Island"
+      }
+    },
+    "N04": {
+      "stop_name": "New Utrecht Av",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Coney Island"
+      }
+    },
+    "N05": {
+      "stop_name": "18 Av",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Coney Island"
+      }
+    },
+    "N06": {
+      "stop_name": "20 Av",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Coney Island"
+      }
+    },
+    "N07": {
+      "stop_name": "Bay Pkwy",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Coney Island"
+      }
+    },
+    "N08": {
+      "stop_name": "Kings Hwy",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Coney Island"
+      }
+    },
+    "N09": {
+      "stop_name": "Avenue U",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Coney Island"
+      }
+    },
+    "N10": {
+      "stop_name": "86 St",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Coney Island"
+      }
+    },
+    "D43": {
+      "stop_name": "Coney Island-Stillwell Av",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Coney Island"
+      }
+    },
+    "Q05": {
+      "stop_name": "96 St",
+      "direction_names": {
+        "north": "Uptown to 96 St",
+        "south": "Manhattan"
+      }
+    },
+    "Q04": {
+      "stop_name": "86 St",
+      "direction_names": {
+        "north": "Uptown to 96 St",
+        "south": "Manhattan"
+      }
+    },
+    "Q03": {
+      "stop_name": "72 St",
+      "direction_names": {
+        "north": "Uptown to 96 St",
+        "south": "Manhattan"
+      }
+    },
+    "B08": {
+      "stop_name": "Lexington Av/63 St",
+      "direction_names": {
+        "north": "Uptown to 96 St",
+        "south": "Manhattan"
+      }
+    }
+  },
+  "Q": {
+    "Q05": {
+      "stop_name": "96 St",
+      "direction_names": {
+        "north": "Uptown to 96 St",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "Q04": {
+      "stop_name": "86 St",
+      "direction_names": {
+        "north": "Uptown to 96 St",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "Q03": {
+      "stop_name": "72 St",
+      "direction_names": {
+        "north": "Uptown to 96 St",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "B08": {
+      "stop_name": "Lexington Av/63 St",
+      "direction_names": {
+        "north": "Uptown to 96 St",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "R14": {
+      "stop_name": "57 St-7 Av",
+      "direction_names": {
+        "north": "Uptown to 96 St",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "R15": {
+      "stop_name": "49 St",
+      "direction_names": {
+        "north": "Uptown to 96 St",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "R16": {
+      "stop_name": "Times Sq-42 St",
+      "direction_names": {
+        "north": "Uptown to 96 St",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "R17": {
+      "stop_name": "34 St-Herald Sq",
+      "direction_names": {
+        "north": "Uptown to 96 St",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "R18": {
+      "stop_name": "28 St",
+      "direction_names": {
+        "north": "Uptown to 96 St",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "R19": {
+      "stop_name": "23 St",
+      "direction_names": {
+        "north": "Uptown to 96 St",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "R20": {
+      "stop_name": "14 St-Union Sq",
+      "direction_names": {
+        "north": "Uptown to 96 St",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "R21": {
+      "stop_name": "8 St-NYU",
+      "direction_names": {
+        "north": "Uptown to 96 St",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "R22": {
+      "stop_name": "Prince St",
+      "direction_names": {
+        "north": "Uptown to 96 St",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "Q01": {
+      "stop_name": "Canal St",
+      "direction_names": {
+        "north": "Uptown to 96 St",
+        "south": "Brooklyn"
+      }
+    },
+    "R30": {
+      "stop_name": "DeKalb Av",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Coney Island"
+      }
+    },
+    "D24": {
+      "stop_name": "Atlantic Av-Barclays Ctr",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Coney Island"
+      }
+    },
+    "D25": {
+      "stop_name": "7 Av",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Coney Island"
+      }
+    },
+    "D26": {
+      "stop_name": "Prospect Park",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Coney Island"
+      }
+    },
+    "D27": {
+      "stop_name": "Parkside Av",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Coney Island"
+      }
+    },
+    "D28": {
+      "stop_name": "Church Av",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Coney Island"
+      }
+    },
+    "D29": {
+      "stop_name": "Beverley Rd",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Coney Island"
+      }
+    },
+    "D30": {
+      "stop_name": "Cortelyou Rd",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Coney Island"
+      }
+    },
+    "D31": {
+      "stop_name": "Newkirk Plaza",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Coney Island"
+      }
+    },
+    "D32": {
+      "stop_name": "Avenue H",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Coney Island"
+      }
+    },
+    "D33": {
+      "stop_name": "Avenue J",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Coney Island"
+      }
+    },
+    "D34": {
+      "stop_name": "Avenue M",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Coney Island"
+      }
+    },
+    "D35": {
+      "stop_name": "Kings Hwy",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Coney Island"
+      }
+    },
+    "D37": {
+      "stop_name": "Avenue U",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Coney Island"
+      }
+    },
+    "D38": {
+      "stop_name": "Neck Rd",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Coney Island"
+      }
+    },
+    "D39": {
+      "stop_name": "Sheepshead Bay",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Coney Island"
+      }
+    },
+    "D40": {
+      "stop_name": "Brighton Beach",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Coney Island"
+      }
+    },
+    "D41": {
+      "stop_name": "Ocean Pkwy",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Coney Island"
+      }
+    },
+    "D42": {
+      "stop_name": "W 8 St-NY Aquarium",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Coney Island"
+      }
+    },
+    "D43": {
+      "stop_name": "Coney Island-Stillwell Av",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Coney Island"
+      }
+    }
+  },
+  "R": {
+    "G08": {
+      "stop_name": "Forest Hills-71 Av",
+      "direction_names": {
+        "north": "Forest Hills",
+        "south": "Manhattan"
+      }
+    },
+    "G09": {
+      "stop_name": "67 Av",
+      "direction_names": {
+        "north": "Forest Hills",
+        "south": "Manhattan"
+      }
+    },
+    "G10": {
+      "stop_name": "63 Dr-Rego Park",
+      "direction_names": {
+        "north": "Forest Hills",
+        "south": "Manhattan"
+      }
+    },
+    "G11": {
+      "stop_name": "Woodhaven Blvd",
+      "direction_names": {
+        "north": "Forest Hills",
+        "south": "Manhattan"
+      }
+    },
+    "G12": {
+      "stop_name": "Grand Av-Newtown",
+      "direction_names": {
+        "north": "Forest Hills",
+        "south": "Manhattan"
+      }
+    },
+    "G13": {
+      "stop_name": "Elmhurst Av",
+      "direction_names": {
+        "north": "Forest Hills",
+        "south": "Manhattan"
+      }
+    },
+    "G14": {
+      "stop_name": "Jackson Hts-Roosevelt Av",
+      "direction_names": {
+        "north": "Forest Hills",
+        "south": "Manhattan"
+      }
+    },
+    "G15": {
+      "stop_name": "65 St",
+      "direction_names": {
+        "north": "Forest Hills",
+        "south": "Manhattan"
+      }
+    },
+    "G16": {
+      "stop_name": "Northern Blvd",
+      "direction_names": {
+        "north": "Forest Hills",
+        "south": "Manhattan"
+      }
+    },
+    "G18": {
+      "stop_name": "46 St",
+      "direction_names": {
+        "north": "Forest Hills",
+        "south": "Manhattan"
+      }
+    },
+    "G19": {
+      "stop_name": "Steinway St",
+      "direction_names": {
+        "north": "Forest Hills",
+        "south": "Manhattan"
+      }
+    },
+    "G20": {
+      "stop_name": "36 St",
+      "direction_names": {
+        "north": "Forest Hills",
+        "south": "Manhattan"
+      }
+    },
+    "G21": {
+      "stop_name": "Queens Plaza",
+      "direction_names": {
+        "north": "Forest Hills",
+        "south": "Manhattan"
+      }
+    },
+    "R11": {
+      "stop_name": "Lexington Av/59 St",
+      "direction_names": {
+        "north": "Queens",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "R13": {
+      "stop_name": "5 Av/59 St",
+      "direction_names": {
+        "north": "Uptown & Queens",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "R14": {
+      "stop_name": "57 St-7 Av",
+      "direction_names": {
+        "north": "Uptown & Queens",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "R15": {
+      "stop_name": "49 St",
+      "direction_names": {
+        "north": "Uptown & Queens",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "R16": {
+      "stop_name": "Times Sq-42 St",
+      "direction_names": {
+        "north": "Uptown & Queens",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "R17": {
+      "stop_name": "34 St-Herald Sq",
+      "direction_names": {
+        "north": "Uptown & Queens",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "R18": {
+      "stop_name": "28 St",
+      "direction_names": {
+        "north": "Uptown & Queens",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "R19": {
+      "stop_name": "23 St",
+      "direction_names": {
+        "north": "Uptown & Queens",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "R20": {
+      "stop_name": "14 St-Union Sq",
+      "direction_names": {
+        "north": "Uptown & Queens",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "R21": {
+      "stop_name": "8 St-NYU",
+      "direction_names": {
+        "north": "Uptown & Queens",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "R22": {
+      "stop_name": "Prince St",
+      "direction_names": {
+        "north": "Uptown & Queens",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "R23": {
+      "stop_name": "Canal St",
+      "direction_names": {
+        "north": "Uptown & Queens",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "R24": {
+      "stop_name": "City Hall",
+      "direction_names": {
+        "north": "Uptown & Queens",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "R25": {
+      "stop_name": "Cortlandt St",
+      "direction_names": {
+        "north": "Uptown & Queens",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "R26": {
+      "stop_name": "Rector St",
+      "direction_names": {
+        "north": "Uptown & Queens",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "R27": {
+      "stop_name": "Whitehall St-South Ferry",
+      "direction_names": {
+        "north": "Uptown & Queens",
+        "south": "Brooklyn"
+      }
+    },
+    "R28": {
+      "stop_name": "Court St",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Bay Ridge"
+      }
+    },
+    "R29": {
+      "stop_name": "Jay St-MetroTech",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Bay Ridge"
+      }
+    },
+    "R30": {
+      "stop_name": "DeKalb Av",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Bay Ridge"
+      }
+    },
+    "R31": {
+      "stop_name": "Atlantic Av-Barclays Ctr",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Bay Ridge"
+      }
+    },
+    "R32": {
+      "stop_name": "Union St",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Bay Ridge"
+      }
+    },
+    "R33": {
+      "stop_name": "4 Av-9 St",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Bay Ridge"
+      }
+    },
+    "R34": {
+      "stop_name": "Prospect Av",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Bay Ridge"
+      }
+    },
+    "R35": {
+      "stop_name": "25 St",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Bay Ridge"
+      }
+    },
+    "R36": {
+      "stop_name": "36 St",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Bay Ridge"
+      }
+    },
+    "R39": {
+      "stop_name": "45 St",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Bay Ridge"
+      }
+    },
+    "R40": {
+      "stop_name": "53 St",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Bay Ridge"
+      }
+    },
+    "R41": {
+      "stop_name": "59 St",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Bay Ridge"
+      }
+    },
+    "R42": {
+      "stop_name": "Bay Ridge Av",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Bay Ridge"
+      }
+    },
+    "R43": {
+      "stop_name": "77 St",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Bay Ridge"
+      }
+    },
+    "R44": {
+      "stop_name": "86 St",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Bay Ridge"
+      }
+    },
+    "R45": {
+      "stop_name": "Bay Ridge-95 St",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Bay Ridge"
+      }
+    }
+  },
+  "W": {
+    "R01": {
+      "stop_name": "Astoria-Ditmars Blvd",
+      "direction_names": {
+        "north": "Astoria",
+        "south": "Manhattan"
+      }
+    },
+    "R03": {
+      "stop_name": "Astoria Blvd",
+      "direction_names": {
+        "north": "Astoria",
+        "south": "Manhattan"
+      }
+    },
+    "R04": {
+      "stop_name": "30 Av",
+      "direction_names": {
+        "north": "Astoria",
+        "south": "Manhattan"
+      }
+    },
+    "R05": {
+      "stop_name": "Broadway",
+      "direction_names": {
+        "north": "Astoria",
+        "south": "Manhattan"
+      }
+    },
+    "R06": {
+      "stop_name": "36 Av",
+      "direction_names": {
+        "north": "Astoria",
+        "south": "Manhattan"
+      }
+    },
+    "R08": {
+      "stop_name": "39 Av-Dutch Kills",
+      "direction_names": {
+        "north": "Astoria",
+        "south": "Manhattan"
+      }
+    },
+    "R09": {
+      "stop_name": "Queensboro Plaza",
+      "direction_names": {
+        "north": "Astoria",
+        "south": "Manhattan"
+      }
+    },
+    "R11": {
+      "stop_name": "Lexington Av/59 St",
+      "direction_names": {
+        "north": "Queens",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "R13": {
+      "stop_name": "5 Av/59 St",
+      "direction_names": {
+        "north": "Uptown & Queens",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "R14": {
+      "stop_name": "57 St-7 Av",
+      "direction_names": {
+        "north": "Uptown & Queens",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "R15": {
+      "stop_name": "49 St",
+      "direction_names": {
+        "north": "Uptown & Queens",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "R16": {
+      "stop_name": "Times Sq-42 St",
+      "direction_names": {
+        "north": "Uptown & Queens",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "R17": {
+      "stop_name": "34 St-Herald Sq",
+      "direction_names": {
+        "north": "Uptown & Queens",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "R18": {
+      "stop_name": "28 St",
+      "direction_names": {
+        "north": "Uptown & Queens",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "R19": {
+      "stop_name": "23 St",
+      "direction_names": {
+        "north": "Uptown & Queens",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "R20": {
+      "stop_name": "14 St-Union Sq",
+      "direction_names": {
+        "north": "Uptown & Queens",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "R21": {
+      "stop_name": "8 St-NYU",
+      "direction_names": {
+        "north": "Uptown & Queens",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "R22": {
+      "stop_name": "Prince St",
+      "direction_names": {
+        "north": "Uptown & Queens",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "R23": {
+      "stop_name": "Canal St",
+      "direction_names": {
+        "north": "Uptown & Queens",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "R24": {
+      "stop_name": "City Hall",
+      "direction_names": {
+        "north": "Uptown & Queens",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "R25": {
+      "stop_name": "Cortlandt St",
+      "direction_names": {
+        "north": "Uptown & Queens",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "R26": {
+      "stop_name": "Rector St",
+      "direction_names": {
+        "north": "Uptown & Queens",
+        "south": "Downtown & Brooklyn"
+      }
+    },
+    "R27": {
+      "stop_name": "Whitehall St-South Ferry",
+      "direction_names": {
+        "north": "Uptown & Queens",
+        "south": "Brooklyn"
+      }
+    },
+    "R28": {
+      "stop_name": "Court St",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Bay Pkwy & 86 St"
+      }
+    },
+    "R29": {
+      "stop_name": "Jay St-MetroTech",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Bay Pkwy & 86 St"
+      }
+    },
+    "R30": {
+      "stop_name": "DeKalb Av",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Bay Pkwy & 86 St"
+      }
+    },
+    "R31": {
+      "stop_name": "Atlantic Av-Barclays Ctr",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Bay Pkwy & 86 St"
+      }
+    },
+    "R32": {
+      "stop_name": "Union St",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Bay Pkwy & 86 St"
+      }
+    },
+    "R33": {
+      "stop_name": "4 Av-9 St",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Bay Pkwy & 86 St"
+      }
+    },
+    "R34": {
+      "stop_name": "Prospect Av",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Bay Pkwy & 86 St"
+      }
+    },
+    "R35": {
+      "stop_name": "25 St",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Bay Pkwy & 86 St"
+      }
+    },
+    "R36": {
+      "stop_name": "36 St",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Bay Pkwy & 86 St"
+      }
+    },
+    "B12": {
+      "stop_name": "9 Av",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Bay Pkwy"
+      }
+    },
+    "B16": {
+      "stop_name": "62 St",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Bay Pkwy"
+      }
+    },
+    "B21": {
+      "stop_name": "Bay Pkwy",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "Bay Pkwy"
+      }
+    },
+    "R39": {
+      "stop_name": "45 St",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "86 St"
+      }
+    },
+    "R40": {
+      "stop_name": "53 St",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "86 St"
+      }
+    },
+    "R41": {
+      "stop_name": "59 St",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "86 St"
+      }
+    },
+    "N02": {
+      "stop_name": "8 Av",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "86 St"
+      }
+    },
+    "N03": {
+      "stop_name": "Fort Hamilton Pkwy",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "86 St"
+      }
+    },
+    "N04": {
+      "stop_name": "New Utrecht Av",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "86 St"
+      }
+    },
+    "N05": {
+      "stop_name": "18 Av",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "86 St"
+      }
+    },
+    "N06": {
+      "stop_name": "20 Av",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "86 St"
+      }
+    },
+    "N07": {
+      "stop_name": "Bay Pkwy",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "86 St"
+      }
+    },
+    "N08": {
+      "stop_name": "Kings Hwy",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "86 St"
+      }
+    },
+    "N09": {
+      "stop_name": "Avenue U",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "86 St"
+      }
+    },
+    "N10": {
+      "stop_name": "86 St",
+      "direction_names": {
+        "north": "Manhattan",
+        "south": "86 St"
+      }
+    }
+  },
+  "Z": {
+    "G05": {
+      "stop_name": "Jamaica Center-Parsons/Archer",
+      "direction_names": {
+        "north": "Jamaica Center",
+        "south": "Manhattan"
+      }
+    },
+    "G06": {
+      "stop_name": "Sutphin Blvd-Archer Av-JFK Airport",
+      "direction_names": {
+        "north": "Jamaica Center",
+        "south": "Manhattan"
+      }
+    },
+    "J12": {
+      "stop_name": "121 St",
+      "direction_names": {
+        "north": "Jamaica Center",
+        "south": "Manhattan"
+      }
+    },
+    "J14": {
+      "stop_name": "104 St",
+      "direction_names": {
+        "north": "Jamaica Center",
+        "south": "Manhattan"
+      }
+    },
+    "J15": {
+      "stop_name": "Woodhaven Blvd",
+      "direction_names": {
+        "north": "Jamaica Center",
+        "south": "Manhattan"
+      }
+    },
+    "J17": {
+      "stop_name": "75 St-Elderts Ln",
+      "direction_names": {
+        "north": "Jamaica Center",
+        "south": "Manhattan"
+      }
+    },
+    "J20": {
+      "stop_name": "Crescent St",
+      "direction_names": {
+        "north": "Jamaica Center",
+        "south": "Manhattan"
+      }
+    },
+    "J21": {
+      "stop_name": "Norwood Av",
+      "direction_names": {
+        "north": "Jamaica Center",
+        "south": "Manhattan"
+      }
+    },
+    "J23": {
+      "stop_name": "Van Siclen Av",
+      "direction_names": {
+        "north": "Jamaica Center",
+        "south": "Manhattan"
+      }
+    },
+    "J24": {
+      "stop_name": "Alabama Av",
+      "direction_names": {
+        "north": "Jamaica Center",
+        "south": "Manhattan"
+      }
+    },
+    "J27": {
+      "stop_name": "Broadway Junction",
+      "direction_names": {
+        "north": "Jamaica Center",
+        "south": "Manhattan"
+      }
+    },
+    "J28": {
+      "stop_name": "Chauncey St",
+      "direction_names": {
+        "north": "Jamaica Center",
+        "south": "Manhattan"
+      }
+    },
+    "J30": {
+      "stop_name": "Gates Av",
+      "direction_names": {
+        "north": "Jamaica Center",
+        "south": "Manhattan"
+      }
+    },
+    "M11": {
+      "stop_name": "Myrtle Av",
+      "direction_names": {
+        "north": "Jamaica Center",
+        "south": "Manhattan"
+      }
+    },
+    "M16": {
+      "stop_name": "Marcy Av",
+      "direction_names": {
+        "north": "Jamaica Center",
+        "south": "Manhattan"
+      }
+    },
+    "M18": {
+      "stop_name": "Delancey St-Essex St",
+      "direction_names": {
+        "north": "Uptown Brooklyn & Queens",
+        "south": "Downtown to Broad St"
+      }
+    },
+    "M19": {
+      "stop_name": "Bowery",
+      "direction_names": {
+        "north": "Uptown Brooklyn & Queens",
+        "south": "Downtown to Broad St"
+      }
+    },
+    "M20": {
+      "stop_name": "Canal St",
+      "direction_names": {
+        "north": "Uptown Brooklyn & Queens",
+        "south": "Downtown to Broad St"
+      }
+    },
+    "M21": {
+      "stop_name": "Chambers St",
+      "direction_names": {
+        "north": "Uptown Brooklyn & Queens",
+        "south": "Downtown to Broad St"
+      }
+    },
+    "M22": {
+      "stop_name": "Fulton St",
+      "direction_names": {
+        "north": "Uptown Brooklyn & Queens",
+        "south": "Downtown to Broad St"
+      }
+    },
+    "M23": {
+      "stop_name": "Broad St",
+      "direction_names": {
+        "north": "Uptown Brooklyn & Queens",
+        "south": "Downtown to Broad St"
+      }
+    }
+  }
+}
