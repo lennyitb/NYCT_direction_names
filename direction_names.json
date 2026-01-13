@@ -1517,7 +1517,7 @@
       "stop_name": "Franklin Av-Medgar Evers College",
       "direction_names": {
         "north": "Manhattan",
-        "south": "Flatbush Av & Utica Av"
+        "south": "Franklin Av-Medgar Evers College"
       }
     },
     "250": {
@@ -2738,28 +2738,28 @@
       "stop_name": "Rockaway Blvd",
       "direction_names": {
         "north": "Manhattan",
-        "south": "Lefferts Blvd & The Rockaways"
+        "south": "The Rockaways"
       }
     },
     "H02": {
       "stop_name": "Aqueduct-N Conduit Av",
       "direction_names": {
         "north": "Manhattan",
-        "south": "Lefferts Blvd & The Rockaways"
+        "south": "The Rockaways"
       }
     },
     "H03": {
       "stop_name": "Howard Beach-JFK Airport",
       "direction_names": {
         "north": "Manhattan",
-        "south": "Lefferts Blvd & The Rockaways"
+        "south": "The Rockaways"
       }
     },
     "H04": {
       "stop_name": "Broad Channel",
       "direction_names": {
         "north": "Manhattan",
-        "south": "Lefferts Blvd & The Rockaways"
+        "south": "The Rockaways"
       }
     },
     "A63": {
@@ -6511,7 +6511,7 @@
       "stop_name": "36 St",
       "direction_names": {
         "north": "Manhattan",
-        "south": "Bay Pkwy & 86 St"
+        "south": "36 St"
       }
     },
     "B12": {
