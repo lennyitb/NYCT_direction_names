@@ -8,6 +8,27 @@ mailto:lennyphelan@gmail.com
 
 ---
 
+## Dataset: stop_direction_names.json
+
+The rules in this document have been applied to generate **stop_direction_names.json** - a complete dataset of direction names for every station, indexed by stop ID.
+
+```json
+{
+  "A24": {
+    "stop_name": "59 St-Columbus Circle",
+    "routes": ["A", "B", "C", "D"],
+    "direction_names": {
+      "north": "Uptown & The Bronx",
+      "south": "Downtown Brooklyn & Queens"
+    }
+  }
+}
+```
+
+At multi-service stations, the direction names reflect what physical mezzanine signage must show - text that works for ALL trains stopping there. See [Deriving Stop-Level Direction Names](#deriving-stop-level-direction-names) at the end for how these canonical names are derived.
+
+---
+
 ## Quick Reference: The Core Rules
 
 1. **In Manhattan or Bronx**: "Uptown" or "Downtown"
@@ -157,3 +178,76 @@ Signage shows terminal names, drilling down as branches diverge:
 Key concepts:
 - **Collective names**: "The Rockaways" covers both Rockaway Park and Far Rockaway (only such name in the system)
 - **Branch-aware resolution**: Terminals shown are those *reachable from current stop*
+
+---
+
+## Deriving Stop-Level Direction Names
+
+The rules above generate **route-specific** direction names - what you'd see on a route diagram. But physical mezzanine signage at multi-service stations must work for ALL trains. This section explains how route-level names are combined into canonical stop-level names.
+
+### The Problem
+
+At 59 St-Columbus Circle (stop A24), four routes have different direction names:
+
+| Route | North Direction | South Direction |
+|-------|-----------------|-----------------|
+| A | Uptown to Inwood-207 St | Downtown Brooklyn & Queens |
+| B | Uptown & The Bronx | Downtown & Brooklyn |
+| C | Uptown to 168 St | Downtown & Brooklyn |
+| D | Uptown & The Bronx | Downtown & Brooklyn |
+
+Physical signage must show: **"Uptown & The Bronx"** / **"Downtown Brooklyn & Queens"**
+
+### Derivation Pipeline
+
+**Stage 1: Collection**
+
+For each stop, collect all direction names from every route serving it:
+```
+A24 north: ["Uptown to Inwood-207 St", "Uptown & The Bronx", "Uptown to 168 St", "Uptown & The Bronx"]
+A24 south: ["Downtown Brooklyn & Queens", "Downtown & Brooklyn", "Downtown & Brooklyn", "Downtown & Brooklyn"]
+```
+
+**Stage 2: Classification**
+
+Categorize each collected name by type:
+- **Borough-based**: "Uptown & The Bronx", "Downtown & Brooklyn"
+- **Terminal-specific**: "Uptown to Inwood-207 St", "Uptown to 168 St"
+- **Multi-borough**: "Downtown Brooklyn & Queens"
+- **Terminal-only**: "Jamaica Center", "Flatbush Av"
+
+**Stage 3: Selection**
+
+Apply selection rules to choose the canonical name:
+
+1. **Most inclusive borough coverage**: If ANY route reaches a borough, include it
+   - "Downtown & Brooklyn" vs "Downtown Brooklyn & Queens" → Queens wins because the A reaches it
+
+2. **Borough-based over terminal-specific**: Generic covers more services
+   - "Uptown to Inwood-207 St" vs "Uptown & The Bronx" → borough-based wins
+
+3. **Same-corridor terminals**: Use the farther destination
+   - 168 St and Inwood-207 St are on the same corridor → use Inwood-207 St
+
+**Stage 4: Combination**
+
+When selection yields multiple distinct values, combine them:
+
+- **Boroughs**: Ordered Manhattan → Brooklyn → Queens → The Bronx
+  - ["& The Bronx", "& Queens"] → "Queens & The Bronx"
+
+- **Terminals**: Alphabetical with suffix pluralization
+  - ["Flatbush Av", "New Lots Av"] → "Flatbush & New Lots Avs"
+
+- **Collective names**: Geographic groupings collapse
+  - ["Jamaica Center", "Jamaica-179 St"] → "Jamaica"
+
+### Selection Rule Summary
+
+| Rule | Principle |
+|------|-----------|
+| Most inclusive | If any route reaches a borough, include it |
+| Borough over terminal | Generic names cover more services |
+| Farther terminus | For same-corridor terminals, use the farther one |
+| No mixing | Use EITHER borough names OR terminal names, not both |
+| Single-route passthrough | If only one route serves the stop, use its names directly |
